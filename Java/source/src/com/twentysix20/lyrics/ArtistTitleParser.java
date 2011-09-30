@@ -4,3 +4,4 @@ public interface ArtistTitleParser {
 	public String parseArtist(String pageData);
 	public String parseTitle(String pageData);
 }
+// This is a test.
