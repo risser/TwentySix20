@@ -34,7 +34,6 @@ INDEX VERSION 1.126+C:\Risser\projects\TwentySix20\Java\.metadata\.plugins\org.e
 2260285368.index
 670961959.index
 3845619325.index
-2538701421.index
 2995743601.index
 3615452582.index
 1913867922.index
