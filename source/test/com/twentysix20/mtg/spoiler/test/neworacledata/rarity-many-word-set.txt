@@ -1,0 +1,61 @@
+                <tr>
+                    <td>
+                        Name:
+                    </td>
+
+                    <td>
+                        <a id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_cardEntries_ctl251_cardLink" class="nameLink" onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=130701">Pact of Negation</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Cost:
+                    </td>
+                    <td>
+
+                        0
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Type:
+                    </td>
+                    <td>
+                        Instant
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        Pow/Tgh:
+                    </td>
+                    <td>
+                        
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        Rules Text:
+                    </td>
+                    <td>
+                        Pact of Negation is blue.<br />
+Counter target spell.<br />
+At the beginning of your next upkeep, pay {3}{U}{U}. If you don't, you lose the game.
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        Set/Rarity:
+                    </td>
+                    <td>
+                        Future Sight Rare
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <br />
+
+                    </td>
+                </tr>

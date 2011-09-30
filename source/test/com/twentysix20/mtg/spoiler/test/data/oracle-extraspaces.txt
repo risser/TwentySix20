@@ -1,0 +1,4 @@
+ Sol  Ring  
+  {1} 
+ Artifact 
+ {T}:  Add {2} to  your mana pool. 

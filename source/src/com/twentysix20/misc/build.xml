@@ -1,0 +1,111 @@
+<project name="geaedc" default="clean" basedir="..">
+	<property environment="env" />
+	<property name="data_dest" value="/afs/ae.ge.com/www/wsd01/data/dsgncntri" />
+	<property name="devwa" value="${basedir}" />
+	<property name="src" value="${devwa}/src" />
+	<property name="classes" value="${devwa}/WEB-INF/classes" />
+	<property name="lib" value="${devwa}/WEB-INF/lib" />
+
+
+<!-- major targets: clean erases and builds everything fresh; update just recompiles things that have changed -->
+	<target name="clean" depends="clean_dest,update"/>
+	<target name="update" depends="compile,copy_data,chop_xml,add_xml,psdk"/>
+
+
+<!-- deletion -->
+	<target name="clean_classes" depends="initialize">
+		<delete>
+			<fileset dir="${classes}">
+				<exclude name="**/_tmp_war_dsgncntri/**"/>
+			</fileset>
+		</delete>
+	</target>
+	<target name="clean_data" if="data_dest.exists" depends="initialize">
+		<delete>
+			<fileset dir="${data_dest}">
+			</fileset>
+		</delete>
+	</target>
+	<target name="clean_dest" depends="clean_data,clean_classes"/>
+
+
+<!-- create build dir, if necessary -->
+	<target name="build_dir">
+		<mkdir dir="${classes}"/>
+		<mkdir dir="${devwa}/pages/psdk"/>
+	</target>
+
+
+<!-- compile the java to classes -->
+	<target name="compile" depends="build_dir">
+		<javac srcdir="${src}" destdir="${classes}">
+			<classpath>
+				<pathelement path="${env.CLASSPATH}"/>
+				<fileset dir="${lib}">
+					<include name="**/*.jar"/>
+				</fileset>
+				<pathelement location="${classes}"/>
+			</classpath>
+
+			<include name="geaedc/**/*.java"/>
+		</javac>
+  	</target>
+
+
+<!-- setup flags, properties and tasks -->
+	<target name="initialize">
+		<condition property="isUnix">
+			<os family="unix"/>
+		</condition>
+		<condition property="isWindows">
+			<os family="windows"/>
+		</condition>
+		<available file="${data_dest}" type="dir" property="data_dest.exists"/>
+		<javac srcdir="${devwa}/build" destdir="${devwa}/build">
+			<include name="*.java"/>
+		</javac>
+		<taskdef name="webxml_update" classname="chopwebxml"/>
+	</target>
+
+
+<!-- handle the copying of data to AFS -->
+	<target name="no_data_message" unless="data_dest.exists" depends="initialize">
+		<echo message="*** No AFS data directory found.  Could be local?"/>
+	</target>
+
+  	<target name="copy_data" if="data_dest.exists" depends="no_data_message">
+  		<copy todir="${data_dest}">
+  			<fileset dir="${devwa}/data"/>
+  		</copy>
+  	</target>
+
+
+<!-- handle the differences of the web.xml between Tomcat and WebLogic -->
+	<target name="chop_xml" if="isUnix" depends="initialize">
+		<webxml_update action="chop" in="${devwa}/WEB-INF/web.xml" out="${devwa}/WEB-INF/web.xml"/>
+	</target>
+	<target name="add_xml" if="isWindows" depends="initialize">
+		<webxml_update action="add" in="${devwa}/WEB-INF/web.xml" out="${devwa}/WEB-INF/web.xml"/>
+	</target>
+
+
+<!-- update psdk files -->
+	<target name="psdk_win" if="isWindows" depends="initialize">
+  		<java classname="geaedc.tools.PSDKPageGenerator" classpath="${env.CLASSPATH}:${devwa}/WEB-INF/classes:/opt/web/j2lib/xalan_2_0_1.jar">
+  			<arg value="\users\www\apps\dsgncntri\data\psdk\"/>
+  			<arg value="\users\www\apps\dsgncntri\pages\psdk\"/>
+		</java>
+	</target>
+	<target name="psdk_unix" if="isUnix" depends="initialize">
+  		<copy todir="${devwa}/data/psdk">
+  			<fileset dir="/afs/ae.ge.com/www/wsd01/data/aatp/psdk"/>
+  		</copy>
+  		<java classname="geaedc.tools.PSDKPageGenerator" classpath="${env.CLASSPATH}:${devwa}/WEB-INF/classes:/opt/web/j2lib/xalan_2_0_1.jar">
+  			<arg value="${devwa}/data/psdk/"/>
+  			<arg value="${devwa}/pages/psdk/"/>
+		</java>
+	</target>
+	<target name="psdk" depends="psdk_win,psdk_unix"/>
+
+
+</project>

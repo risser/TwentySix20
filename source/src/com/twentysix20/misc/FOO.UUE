@@ -1,0 +1,9 @@
+section 1 of 1 of file foo.txt  < uuencode 5.32 by R.E.M. >
+
+begin 644 foo.txt
+/9F]O#0IB87(-"G-K=V5E
+`
+end
+sum -r/size 60047/46 section (from "begin" to "end")
+sum -r/size 56043/15 entire input file
+

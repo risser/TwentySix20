@@ -1,0 +1,7 @@
+Evermind 
+{ }   
+Instant — Arcane  
+(Spells without mana costs can’t be played.)
+Draw a card.
+Evermind is blue.
+Splice onto Arcane 1U (As you play an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card’s effects to that spell.)

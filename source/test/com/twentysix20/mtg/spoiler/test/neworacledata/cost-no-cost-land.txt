@@ -1,0 +1,60 @@
+                <tr>
+                    <td>
+                        Name:
+                    </td>
+                    <td>
+                        <a id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_cardEntries_ctl02_cardLink" class="nameLink" onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=129458">Adarkar Wastes</a>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Cost:
+                    </td>
+                    <td>
+                        
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        Type:
+                    </td>
+                    <td>
+                        Land
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+
+                        Pow/Tgh:
+                    </td>
+                    <td>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Rules Text:
+                    </td>
+                    <td>
+
+                        {T}: Add {1} to your mana pool.<br />
+{T}: Add {W} or {U} to your mana pool. Adarkar Wastes deals 1 damage to you.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Set/Rarity:
+                    </td>
+                    <td>
+                        Tenth Edition Rare, Ninth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Ice Age Rare
+                    </td>
+
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <br />
+                    </td>
+                </tr>
+            

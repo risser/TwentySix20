@@ -1,0 +1,39 @@
+package com.twentysix20.peg;
+
+public class Hole
+{
+	static final int MAX_NEIGHBORS = 6;
+
+	private boolean hasPeg;
+	private Hole[] neighbors = new int[MAX_NEIGHBORS];
+
+	public Hole()
+	{
+		hasPeg = false;
+	}
+
+	public Hole(boolean p)
+	{
+		hasPeg = p;
+	}
+
+	public boolean isEmpty()
+	{
+		return !hasPeg;
+	}
+
+	public void insertPeg()
+	{
+		hasPeg = true;
+	}
+
+	public void removePeg()
+	{
+		hasPeg = false;
+	}
+
+	public Hole neighbor(int x)
+	{
+		return neighbors[x];
+	}
+}

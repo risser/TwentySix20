@@ -1,0 +1,7 @@
+ - if all the remaining cards in one store are more expensive than all the cards in the existing store... what does this mean, & does it work?
+ - if a card belongs to a vendor already in the list and it's not cheaper than the same card from another vendor on the list, can we eliminate it? Only... with per-card shipping, it could make a difference... we would need to know the per-card shipping charge ... or for those shippings that tip us over 99 cards or whatever, it'd fail... or if it'd put us over $50, it'd be better...
+ - if the sum of all cheapest versions of all remaining cards is more than the current cheapest, no need to go down into the weeds.
+ 
+ - need to fix 'eliminate more expensive store' to handle multi-item inventories.
+ 
+ - optimize the removal of already ordered records from possibles for multi-items

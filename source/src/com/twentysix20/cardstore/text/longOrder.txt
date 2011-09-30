@@ -1,0 +1,200 @@
+1	Faerie Conclave
+1	Kaysa
+1	Yavimaya Ancients
+1	Otherworldly Journey
+1	Tranquil Grove
+1	Arcbound Crusher
+1	Shield of Kaldra
+1	Sword of Fire and Ice
+1	Vigor
+1	Mirari's Wake
+1	Sword of Light and Shadow
+1	Spellshock
+1	Relentless Rats
+1	Akroma's Memorial
+1	Baru, Fist of Krosa
+1	Molimo, Maro-Sorcerer
+1	Ashling the Pilgrim
+1	Smoke
+1	Austere Command
+1	Overwhelming Instinct
+1	Rib Cage Spider
+1	Regrowth
+1	Bounteous Kirin
+1	Repercussion
+5	Terramorphic Expanse
+3	Serum Tank
+
+1	Jace, the Mind Sculptor
+
+4:206,080 	 78ms
+5:4,327,680 	 125ms
+6:73,570,560 	 672ms
+7:1,103,558,400 	 1s, 328ms
+8:17,656,934,400 	 2s, 390ms
+9:282,510,950,400 	 26s, 15ms; (26015ms
+10:3,390,131,404,800 	 5m, 7s, 703ms; (307703ms
+			5m, 15s, 953ms; (315953ms
+
+8/18
+10:  315,372,657,600	36s, 266ms; (36266ms)
+						34s, 906ms; (34906ms)
+11:2,207,608,603,200	27min+
+
+8/20
+10: 533,073,096,864		48s, 156ms; (48156ms
+			Total Time: 44s, 798ms; (44798ms)
+
+10: 533,073,096,864
+Total Time: 750ms; (750ms)
+
+13: 2,746,392,595,043,328 
+Total Time: 8s, 469ms; (8469ms)
+
+14: 27,463,925,950,433,280
+Total Time: 21s, 765ms; (21765ms)
+
+15: 631,670,296,859,965,440
+Total Time: 32s, 406ms; (32406ms)
+
+16: 16,423,427,718,359,101,440
+Total Time: 49s, 312ms; (49312ms)
+Total Time: 54s, 562ms; (54562ms)
+
+16: 15,203,256,831,876,072,960
+Total Time: 3m, 8s, 796ms; (188796ms)
+
+17: 476,279,403,832,413,941,760
+Total Time: 1m, 36s, 218ms; (96218ms)
+Total Time: 1m, 39s, 298ms; (99298ms)
+
+18: 10,345,847,049,915,213,957,120
+Total Time: 9m, 44s, 767ms; (584767ms)
+
+- new Vendors: (spec. 2 with 1.53 constant shipping)
+15: 
+Total Time: 2m, 32s, 577ms; (152577ms)
+Total Time: 2m, 22s, 31ms; (142031ms)
+
+12: 
+Total Time: 16s, 469ms; (16469ms)
+Total Time: 16s, 328ms; (16328ms)
+
+- Added strategy: put cheapest used vendor before unused, eliminate other used vendors
+12: 
+Total Time: 13s, 299ms; (13299ms)
+
+- 8/23:
+12: 
+Total Time: 12s, 640ms; (12640ms)
+Total Time: 12s, 422ms; (12422ms)
+
+- Removed MONEY:
+12:
+Total Time: 4s, 938ms; (4938ms)
+
+15:
+Total Time: 37s, 500ms; (37500ms)
+
+17:
+Total Combinations:   165,457,500,403,721,011,200
+Total Time: 28s, 515ms; (28515ms)
+
+18:
+Total Combinations: 3,805,522,509,285,583,257,600
+Total Time: 6m, 0s, 559ms; (360559ms)
+
+- Pre-calced total:
+17:
+Total Combinations: 175,190,294,545,116,364,800
+Total Time: 10s, 906ms; (10906ms)
+
+18:
+Total Combinations: 3,805,522,509,285,583,257,600 (hext)
+Total Time: 2m, 22s, 94ms; (142094ms)
+
+19: 
+Total Combinations: 57,082,837,639,283,748,864,000
+
+- precalced HashCode
+17:
+Total Combinations: 175,190,294,545,116,364,800
+Total Time: 10s, 563ms; (10563ms)
+
+- precalced numberOfCardsByName
+18: 
+Total Time: 2m, 6s, 155ms; (126155ms)
+Total Combinations: 4,029,376,774,537,676,390,400 (hext)
+
+- ?? what changed?
+15: 
+Total Combinations: 276,345,093,414,297,600
+Total Time: 2m, 1s, 812ms; (121812ms)
+
+15 with foils:
+Total Combinations: 351,047,075,187,916,800
+Total Time: 12m, 39s, 122ms; (759122ms)
+
+13 with foils: 
+Total Combinations: 3,656,740,366,540,800
+Total Time: 2s, 672ms; (2672ms)
+
+14: 
+Total Combinations: 25,597,182,565,785,600
+Total Time: 14s, 311ms; (14311ms)
+
+- Remove expensive stores
+14: 
+Total Combinations:   978,140,427,264,000
+Total Time: 7s, 421ms; (7421ms)
+
+15:
+Total Time: 8s, 188ms; (8188ms)
+Total Combinations: 15,650,246,836,224,000
+
+- Include all 'in use' vendors, not just cheapest
+15: 
+Total Combinations: 15,650,246,836,224,000
+Total Time: 12s, 172ms; (12172ms)
+
+- 8/25:
+16:
+Total Combinations:   274,501,772,633,088,000
+Total Time: 6s, 609ms; (6609ms)
+
+17:
+Total Time: 13s, 172ms; (13172ms)
+Total Combinations: 5,872,304,587,884,134,400 (quint)
+
+- Cut if order + cheapest remainder is too big
+17: 
+Total Combinations: 5,872,304,587,884,134,400
+Total Time: 1s, 407ms; (1407ms)
+
+- Added AdventuresOn postage
+17:
+Total Time: 4s, 219ms; (4219ms)
+
+18:
+Total Combinations: 17,715,744,653,967,360,000
+Total Time: 6s, 656ms; (6656ms)
+
+19:
+Total Combinations: 410,307,603,922,944,000,000
+Total Time: 37s, 938ms; (37938ms)
+
+20:
+Total Time: 1s, 876ms; (1876ms)
+
+- more vendors
+21:
+Total Time: 4s, 985ms; (4985ms)
+
+22:
+Total Time: 22s, 438ms; (22438ms)
+
+23: 
+Total Time: 1s, 672ms; (1672ms)
+
+26 (all):
+Total Time: 1m, 25s, 518ms; (85518ms)

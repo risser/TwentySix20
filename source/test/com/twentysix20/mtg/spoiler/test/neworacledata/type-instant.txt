@@ -1,0 +1,59 @@
+                <tr>
+                    <td>
+                        Name:
+                    </td>
+                    <td>
+
+                        <a id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_cardEntries_ctl00_cardLink" class="nameLink" onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=23155">Absorb</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Cost:
+                    </td>
+                    <td>
+                        WUU
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        Type:
+                    </td>
+                    <td>
+                        Instant
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        Pow/Tgh:
+                    </td>
+                    <td>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Rules Text:
+                    </td>
+
+                    <td>
+                        Counter target spell. You gain 3 life.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Set/Rarity:
+                    </td>
+                    <td>
+                        Invasion Rare
+                    </td>
+
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <br />
+                    </td>
+                </tr>
+            

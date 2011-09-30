@@ -1,0 +1,10 @@
+Black Lotus
+{0}
+Artifact
+{T}, Sacrifice Black Lotus: Add three mana of any one color to your mana pool.
+
+Ornithopter 
+0   
+Artifact Creature — Thopter   
+0/2   
+Flying (This creature can’t be blocked except by creatures with flying.)  

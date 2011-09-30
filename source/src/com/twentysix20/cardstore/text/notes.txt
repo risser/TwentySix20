@@ -1,0 +1,19 @@
+
+
+Find a good solution
+ - current algorithm
+ - maximize togetherness (ie: the store that has the most gets it first)
+ - cheapest postage first
+
+THEN:
+ - for each other store, try all permutations, smallest selection first
+ - If you find a better solution, keep it, then try again, with ALL stores.
+ 
+What kind of rule can get rid of 199.99 guy?  
+ - How quickly can I find that I can find ANY combination of items to beat that guy.
+ - Is there a maximum number of items?
+ 
+Can we define a lower range of prices that a card must fall into?  And then eliminate any that don't meet the range?
+
+
+ 

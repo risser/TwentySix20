@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+	<Series>
+		<seriesid>73543</seriesid>
+		<language>en</language>
+		<SeriesName>The 13 Ghosts of Scooby-Doo</SeriesName>
+		<banner>graphical/73543-g2.jpg</banner>
+		<Overview>The 13 Ghosts of Scooby-Doo was about the adventures of
+			Scooby Doo, Shaggy Rogers, Daphne Blake, and Scrappy-Doo chasing
+			after more mysteries. Now they are joined by a magnificent warlock
+			called Vincent Van Ghoul, who is a cartoon cariature of Vincent Price
+			(who also provided the voice), and a mischievous boy named Flim-Flam.
+			Together they have to catch 13 ghosts and put them in a magical
+			"Chest of Demons" that Scooby and Shaggy were tricked into opening by
+			two sneaky ghosts named Weerd and Bogel. This was the last cartoon
+			series that the original Scooby-Doo gang (minus Fred and Velma)
+			appeared in for nearly 20 years. In 1988, the entire gang returned to
+			TV as children in A Pup Named Scooby Doo, but they wouldn't resurface
+			again weekly in their adult form until 2002 in What's New
+			Scooby-Doo?.</Overview>
+		<FirstAired>1985-09-01</FirstAired>
+		<id>73543</id>
+
+	</Series>
+	<Series>
+		<seriesid>78260</seriesid>
+		<language>en</language>
+		<SeriesName>Scooby-Doo, Where Are You!</SeriesName>
+		<banner>graphical/78260-g4.jpg</banner>
+		<Overview>The first incarnation of what has become a
+			franchise-of-sorts, Scooby-Doo is a large, loveable but cowardly
+			Great Dane who hangs around four California high school students
+			(Fred, Velma, Daphne and Shaggy). The four teen-agers are in constant
+			search of mysteries and adventures, driving around in a bright green
+			van known as the Mystery Machine. Many of the group's adventures
+			involve villians who take on supernatural disguises (ghosts and
+			monsters); the villians' activities usually involve blackmail, theft,
+			fraud and other forms of corruption.</Overview>
+		<FirstAired>1969-09-13</FirstAired>
+		<IMDB_ID>tt0063950</IMDB_ID>
+		<zap2it_id>SH003735</zap2it_id>
+
+		<id>78260</id>
+	</Series>
+	<Series>
+		<seriesid>174681</seriesid>
+		<language>en</language>
+		<SeriesName>Scooby-Doo! Mystery Incorporated</SeriesName>
+		<banner>graphical/174681-g5.jpg</banner>
+		<Overview>Fred Jones, Daphne Blake, Velma Dinkley, Norville "Shaggy"
+			Rogers and Scooby-Doo make up the team of teenage mystery solving
+			sleuths known as Mystery Inc who live in a small town called Crystal
+			Cove. The older generation and parents use the town's long history of
+			ghost and monster sightings to bring in tourist and discourage
+			Mystery Inc from solving the mysteries that bring in money. While
+			solving mysteries and proving the monsters to be fake, a mysterious
+			new character known as Mr. E warns them to stop solving mysteries
+			before they reveal a deep dark secret of Crystal Cove.</Overview>
+		<FirstAired>2010-07-12</FirstAired>
+		<IMDB_ID>tt1660055</IMDB_ID>
+
+		<zap2it_id>SH294813</zap2it_id>
+		<id>174681</id>
+	</Series>
+</Data>

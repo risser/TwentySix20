@@ -1,0 +1,160 @@
+<cards type="Magic: The Gathering">
+    <card name="Fire/Ice" face="Fire" facepos="left">
+        <oracle>
+            <cost generic="1" red="1"/>
+            <type class="instant"/>
+            <ability>Fire deals 2 damage divided as you choose among any number of target creatures and/or players.</ability>
+        </oracle>
+        <actual set="Apocalypse" rarity="uncommon" cost="1R">
+            <typeline>Instant</typeline>
+            <text>Fire deals 2 damage divided as you choose among any number of target creatures and/or players.</text>
+            <artist>David Martin</artist>
+        </actual>
+    </card>
+    <card name="Fire/Ice" face="Ice" facepos="right">
+        <oracle>
+            <cost generic="1" blue="1"/>
+            <type class="instant"/>
+            <ability>Tap target permanent. Draw a card.</ability>
+        </oracle>
+        <actual set="Apocalypse" rarity="uncommon" cost="1U">
+            <typeline>Instant</typeline>
+            <text>Tap target permanent. Draw a card.</text>
+            <artist>Franz Vohwinkel</artist>
+        </actual>
+    </card>
+    <card name="B.F.M.">
+        <oracle>
+            <cost black="15"/>
+            <type class="creature">
+                <subtype name="The-Biggest-Baddest-Nastiest-Scariest-Creature-You'll-Ever-See"/>
+            </type>
+            <pt power="99" toughness="99"/>
+            <ability>You must play both B.F.M. cards to put B.F.M. into play. If either B.F.M. card leaves play, sacrifice the other.</ability>
+            <ability>B.F.M. can be blocked only by three or more creatures.</ability>
+        </oracle>
+        <actual set="Unglued" part="1" rarity="rare">
+            <typeline>Summon The Biggest, Baddest, Nastiest,</typeline>
+            <text>You must play both B.F.M. cards to put</text>
+            <text>leaves play, sacrifice the other.</text>
+            <text>B.F.M. can be blocked only by three or</text>
+            <flavor>It was big. Really, really big. No, bigger</flavor>
+            <flavor>No, more. Look, we're talking krakens and</flavor>
+            <artist>Douglas Shuler</artist>
+        </actual>
+        <actual set="Unglued" part="2" rarity="rare" cost="BBBBBBBBBBBBBBB">
+            <typeline>Scariest Creature You'll Ever See</typeline>
+            <pt power="99" toughness="99"/>
+            <text>B.F.M. into play. If either B.F.M. card</text>
+            <text></text>
+            <text>more creatures.</text>
+            <flavor>than that. Even bigger. Keep going. More.</flavor>
+            <flavor>dreadnoughts for jewelry. It was big!" --Arna Kennerüd, skyknight</flavor>
+            <artist>Douglas Shuler</artist>
+        </actual>
+    </card>    
+    <card name="Shock">
+        <oracle>
+            <cost red="1"/>
+            <type class="instant"/>
+            <ability>Shock deals 2 damage to target creature or player.</ability>
+        </oracle>
+        <actual set="Stronghold" rarity="common" cost="R">
+            <typeline>Instant</typeline>
+            <text>Shock deals 2 damage to target creature or player.</text>
+            <flavor>Lightning tethers souls to the world.--Kor saying</flavor>
+            <artist>Randy Gallegos</artist>
+        </actual>
+        <actual set="Onslaught" number="227" rarity="common" cost="R">
+            <typeline>Instant</typeline>
+            <text>Shock deals 2 damage to target creature or player.</text>
+            <flavor>“I love lightning! It’s my best invention since the rock.” -Toggo, goblin weaponsmith</flavor>
+            <artist>Edward P. Beard, Jr.</artist>
+        </actual>
+        <actual set="Classic" rarity="common" cost="R">
+            <typeline>Instant</typeline>
+            <text>Shock deals 2 damage to target creature or player.</text>
+            <flavor>Lightning tethers souls to the world.--Kor saying</flavor>
+            <artist>Randy Gallegos</artist>
+        </actual>
+        <actual set="7th" rarity="common" cost="R">
+            <typeline>Instant</typeline>
+            <text>Shock deals 2 damage to target creature or player.</text>
+            <artist>Mike Sass</artist>
+        </actual>
+        <actual set="8th" number="222" rarity="common" cost="R">
+            <typeline>Instant</typeline>
+            <text>Shock deals 2 damage to target creature or player.</text>
+            <flavor>“I love lightning! It’s my best invention since the rock.” -Toggo, goblin weaponsmith</flavor>
+            <artist>Randy Gallegos</artist>
+        </actual>
+    </card>
+    <card name="Carrier Pigeons">
+        <oracle>
+            <cost generic="3" white="1"/>
+            <type class="creature">
+                <subtype name="Bird"/>
+            </type>
+            <pt power="1" toughness="1"/>
+            <ability>Flying</ability>
+            <ability>When Carrier Pigeons comes into play, draw a card at the beginning of the next turn's upkeep.</ability>
+        </oracle>
+        <actual set="Alliances" version="1" rarity="common" cost="3W">
+            <typeline>Summon Pigeons</typeline>
+            <pt power="1" toughness="1"/>
+            <text>Flying</text>
+            <text>Draw a card at the beginning of the upkeep of the turn after Carrier Pigeons comes into play.</text>
+            <flavor>It's true I ask no fealty of the flocks--but surely we are more than mere beasts. --King Darien of Kjeldor, in a missive to General Varchild</flavor>
+            <artist>Pat Morrissey</artist>
+        </actual>
+        <actual set="Alliances" version="2" rarity="common" cost="3W">
+            <typeline>Summon Pigeons</typeline>
+            <pt power="1" toughness="1"/>
+            <text>Flying</text>
+            <text>Draw a card at the beginning of the upkeep of the turn after Carrier Pigeons comes into play.</text>
+            <flavor>Birds know no borders! Why, then, should we?--General Varchild, in a missive to King Darien of Kjeldor</flavor>
+            <artist>Pat Morrissey</artist>
+        </actual>
+    </card>
+    <card name="Swamp">
+        <oracle>
+            <type class="land">
+                <supertype name="basic"/>
+                <subtype name="swamp"/>
+            </type>
+            <ability>[B]</ability>
+        </oracle>
+        <actual set="Onslaught" version="1" rarity="land" number="339">
+            <typeline>Land</typeline>
+            <artist>Tony Szczudlo</artist>
+        </actual>
+        <actual set="Onslaught" version="2" rarity="land" number="340">
+            <typeline>Land</typeline>
+            <artist>Doug Chaffee</artist>
+        </actual>
+        <actual set="Onslaught" version="3" rarity="land" number="341">
+            <typeline>Land</typeline>
+            <artist>Dan Frazier</artist>
+        </actual>
+        <actual set="Onslaught" version="4" rarity="land" number="342">
+            <typeline>Land</typeline>
+            <artist>Pete Venters</artist>
+        </actual>
+    </card>
+</cards>
+
+  Card Name: Akki Lavarunner
+       Cost: 3R
+       Type: Creature — Goblin Warrior
+    Pow/Tgh: 1/1
+ Rules Text: Haste 
+             Whenever Akki Lavarunner deals damage to an opponent, 
+             flip it. 
+             ----- 
+             Tok-Tok, Volcano Born 
+             Legendary Creature — Goblin Shaman 
+             2/2 
+             Protection from red 
+             If a red source would deal damage to a player, it deals 
+             that much damage plus 1 to that player instead. 
+     Rarity: Rare 

@@ -1,0 +1,6 @@
+
+
+Absorb
+{W}{U}{U}
+Instant
+Counter target spell. You gain 3 life.

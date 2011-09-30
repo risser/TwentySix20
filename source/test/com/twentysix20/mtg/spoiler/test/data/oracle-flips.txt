@@ -1,0 +1,33 @@
+Akki Lavarunner 
+3R   
+Creature — Goblin Warrior   
+1/1   
+Haste
+Whenever Akki Lavarunner deals damage to an opponent, flip it.
+-----
+Tok-Tok, Volcano Born
+Legendary Creature — Goblin Shaman
+2/2
+Protection from red
+If a red source would deal damage to a player, it deals that much damage plus 1 to that player instead.  
+
+Erayo, Soratami Ascendant 
+1U   
+Legendary Creature — Moonfolk Monk   
+1/1   
+Flying
+Whenever the fourth spell of a turn is played, flip Erayo, Soratami Ascendant.
+-----
+Erayo’s Essence
+Legendary Enchantment
+Whenever an opponent plays a spell for the first time in a turn, counter that spell.  
+
+Curse of the Fire Penguin 
+4RR   
+Enchant Creature    
+Curse of the Fire Penguin consumes and confuses enchanted creature.
+-----
+Creature — Penguin
+Trample
+When this creature is put into a graveyard from play, return Curse of the Fire Penguin from your graveyard to play.
+6/5  

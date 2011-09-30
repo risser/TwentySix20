@@ -1,0 +1,38 @@
+==== 7/12: $59.63=$22.76 from Gamers' Inn. $9.98 from SuperGamesInc. $12.49 from TheManaCrypt. $14.40 from TJ Collectibles.
+5 Vivid Crag
+5 Vivid Creek
+5 Vivid Grove
+5 Vivid Marsh
+5 Vivid Meadow
+5 Fieldmist Borderpost
+1 Door of Destinies
+10 Calciform Pools
+10 Dreadship Reef
+10 Fungal Reaches
+10 Molten Slagheap
+10 Saltcrusted Steppe
+1 Thieving Magpie
+1 Allay
+5 Oath of Lieges
+1 Harsh Mercy
+5	Wildfield Borderpost
+10	Rupture Spire
+12	Azorius Chancery
+4	Azorius Signet
+12	Rakdos Carnarium
+8	Simic Growth Chamber
+4	Gruul Turf
+8	Izzet Boilerworks
+8	Orzhov Basilica
+8	Boros Garrison
+4	Boros Signet
+8	Dimir Aqueduct
+12	Golgari Rot Farm
+6	Golgari Signet
+12	Selesnya Sanctuary
+6	Selesnya Signet
+5	Bant Panorama
+5	Esper Panorama
+5	Grixis Panorama
+5	Jund Panorama
+5	Naya Panorama

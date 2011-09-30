@@ -1,0 +1,62 @@
+                <tr>
+                    <td>
+                        Name:
+                    </td>
+                    <td>
+
+                        <a id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_cardEntries_ctl00_cardLink" class="nameLink" onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=74144">Evermind</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Cost:
+                    </td>
+                    <td>
+                        
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        Type:
+                    </td>
+                    <td>
+                        Instant  — Arcane
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        Pow/Tgh:
+                    </td>
+                    <td>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Rules Text:
+                    </td>
+
+                    <td>
+                        (Nonexistent mana costs can't be paid.)<br />
+Draw a card.<br />
+Evermind is blue.<br />
+Splice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+
+                        Set/Rarity:
+                    </td>
+                    <td>
+                        Saviors of Kamigawa Uncommon
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <br />
+                    </td>
+
+                </tr>

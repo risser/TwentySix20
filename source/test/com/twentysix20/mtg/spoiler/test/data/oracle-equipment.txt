@@ -1,0 +1,5 @@
+Fireshrieker 
+3   
+Artifact — Equipment   
+Equipped creature has double strike. (It deals both first-strike and regular combat damage.)
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)  

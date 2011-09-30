@@ -1,0 +1,109 @@
+=== 6/2: $31.88=$12.77 from ChannelFireball. $8.13 from Gamers' Inn. $10.98 from TJ Collectibles.
+1 Relentless Rats
+1 Ancestral Vision
+1 Ancient Spider
+1 Broodstar
+1 Deep-Sea Kraken
+1 Extraplanar Lens
+1 False Cure
+1 General's Kabuto
+1 Grim Feast
+1 Hanna, Ship's Navigator
+1 Helm of Kaldra
+1 Indomitable Ancients
+1 Inkwell Leviathan
+1 Kodama of the North Tree
+1 Lodestone Myr
+1 Magnigoth Treefolk
+1 Mirri, Cat Warrior
+1 Relentless Rats
+1 Reverse the Sands
+1 Steelshaper Apprentice
+1 Stonehewer Giant
+1 Sword of the Chosen
+1 Verdeloth the Ancient
+1 Well of Lost Dreams
+3 Oran-Rief, the Vastwood
+
+Total Time: 10s, 515ms; (10515ms)
+[
+Orders:
+=======
+TOTAL: 30.69
+COUNT: 27
+
+GonetoPlaid Order:
+  Number of Cards: 4
+  Subtotal: $5.56
+  Shipping: $2.01
+  --------
+     Total: $7.57
+  ---
+  Ancestral Vision
+  1    StandardSupplyRecord@7e71dd94(cardName: Ancestral Vision; condition: Unplayed; cost: 2.89; quantity: 4; set: Time Spiral; vendor: GonetoPlaid)
+  Broodstar
+  1    StandardSupplyRecord@bb156fe0(cardName: Broodstar; condition: Unplayed; cost: 1.19; quantity: 3; set: Mirrodin; vendor: GonetoPlaid)
+  Inkwell Leviathan
+  1    StandardSupplyRecord@7c6fa1c3(cardName: Inkwell Leviathan; condition: Unplayed; cost: 0.89; quantity: 1; set: Conflux; vendor: GonetoPlaid)
+  Kodama of the North Tree
+  1    StandardSupplyRecord@22ac9d14(cardName: Kodama of the North Tree; condition: Unplayed; cost: 0.59; quantity: 14; set: Champions of Kamigawa; vendor: GonetoPlaid)
+===
+
+StrikeZoneOnline Order:
+  Number of Cards: 6
+  Subtotal: $4.24
+  Shipping: $0.99
+  --------
+     Total: $5.23
+  ---
+  Extraplanar Lens
+  1    StandardSupplyRecord@bbf3cec1(cardName: Extraplanar Lens; condition: Unplayed; cost: 2.46; quantity: 2; set: Mirrodin; vendor: StrikeZoneOnline)
+  General's Kabuto
+  1    StandardSupplyRecord@6f273775(cardName: General's Kabuto; condition: Unplayed; cost: 0.51; quantity: 2; set: Champions of Kamigawa; vendor: StrikeZoneOnline)
+  Indomitable Ancients
+  1    StandardSupplyRecord@fdbebe69(cardName: Indomitable Ancients; condition: Unplayed; cost: 0.36; quantity: 1; set: Morningtide; vendor: StrikeZoneOnline)
+  Mirri, Cat Warrior
+  1    StandardSupplyRecord@9856d736(cardName: Mirri, Cat Warrior; condition: Unplayed; cost: 0.40; quantity: 7; set: 10th Edition; vendor: StrikeZoneOnline)
+  Reverse the Sands
+  1    StandardSupplyRecord@fd647539(cardName: Reverse the Sands; condition: Unplayed; cost: 0.33; quantity: 6; set: Champions of Kamigawa; vendor: StrikeZoneOnline)
+  Steelshaper Apprentice
+  1    StandardSupplyRecord@8995ad09(cardName: Steelshaper Apprentice; condition: Unplayed; cost: 0.18; quantity: 6; set: Darksteel; vendor: StrikeZoneOnline)
+===
+
+SuperGamesInc Order:
+  Number of Cards: 17
+  Subtotal: $15.42
+  Shipping: $ 2.47
+  --------
+     Total: $17.89
+  ---
+  Ancient Spider
+  1    StandardSupplyRecord@3a7cbfec(cardName: Ancient Spider; condition: Unplayed; cost: 0.25; quantity: 12; set: Planeshift; vendor: SuperGamesInc)
+  Deep-Sea Kraken
+  1    StandardSupplyRecord@6aa58ff9(cardName: Deep-Sea Kraken; condition: Unplayed; cost: 0.79; quantity: 12; set: Time Spiral; vendor: SuperGamesInc)
+  False Cure
+  1    StandardSupplyRecord@d3b8c915(cardName: False Cure; condition: Unplayed; cost: 1.49; quantity: 7; set: Onslaught; vendor: SuperGamesInc)
+  Grim Feast
+  1    StandardSupplyRecord@1a03e121(cardName: Grim Feast; condition: Unplayed; cost: 0.25; quantity: 9; set: Mirage; vendor: SuperGamesInc)
+  Hanna, Ship's Navigator
+  1    StandardSupplyRecord@8e7acaae(cardName: Hanna, Ship's Navigator; condition: Unplayed; cost: 0.99; quantity: 5; set: Invasion; vendor: SuperGamesInc)
+  Helm of Kaldra
+  1    StandardSupplyRecord@fa6aefe8(cardName: Helm of Kaldra; condition: Unplayed; cost: 3.99; quantity: 12; set: Fifth Dawn; vendor: SuperGamesInc)
+  Lodestone Myr
+  1    StandardSupplyRecord@45882ba6(cardName: Lodestone Myr; condition: Unplayed; cost: 0.49; quantity: 8; set: Mirrodin; vendor: SuperGamesInc)
+  Magnigoth Treefolk
+  1    StandardSupplyRecord@54b0777c(cardName: Magnigoth Treefolk; condition: Unplayed; cost: 0.25; quantity: 11; set: Planeshift; vendor: SuperGamesInc)
+  Oran-Rief, the Vastwood
+  3    StandardSupplyRecord@67319faa(cardName: Oran-Rief, the Vastwood; condition: Unplayed; cost: 0.98; quantity: 5; set: Zendikar; vendor: SuperGamesInc)
+  Relentless Rats
+  2    StandardSupplyRecord@68dcd9c0(cardName: Relentless Rats; condition: Unplayed; cost: 0.76; quantity: 24; set: Magic 2011 (M11); vendor: SuperGamesInc)
+  Stonehewer Giant
+  1    StandardSupplyRecord@a098bae0(cardName: Stonehewer Giant; condition: Unplayed; cost: 0.49; quantity: 6; set: Morningtide; vendor: SuperGamesInc)
+  Sword of the Chosen
+  1    StandardSupplyRecord@b8ccfd6a(cardName: Sword of the Chosen; condition: Unplayed; cost: 0.49; quantity: 12; set: Stronghold; vendor: SuperGamesInc)
+  Verdeloth the Ancient
+  1    StandardSupplyRecord@4fd67a34(cardName: Verdeloth the Ancient; condition: Unplayed; cost: 0.49; quantity: 17; set: Timeshifted; vendor: SuperGamesInc)
+  Well of Lost Dreams
+  1    StandardSupplyRecord@b5dc76a7(cardName: Well of Lost Dreams; condition: Unplayed; cost: 0.99; quantity: 8; set: Darksteel; vendor: SuperGamesInc)
+===
+]

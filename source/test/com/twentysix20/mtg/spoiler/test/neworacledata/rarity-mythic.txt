@@ -1,0 +1,56 @@
+            
+                <tr>
+                    <td>
+                        Name:
+                    </td>
+                    <td>
+                        <a id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_cardEntries_ctl443_cardLink" class="nameLink" onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=174876">Kresh the Bloodbraided</a>
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        Cost:
+                    </td>
+                    <td>
+                        2BRG
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Type:
+                    </td>
+
+                    <td>
+                        Legendary Creature  — Human Warrior
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Pow/Tgh:
+                    </td>
+                    <td>
+                        (3/3)
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        Rules Text:
+                    </td>
+                    <td>
+                        Whenever another creature is put into a graveyard from the battlefield, you may put X +1/+1 counters on Kresh the Bloodbraided, where X is that creature's power.
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        Set/Rarity:
+                    </td>
+                    <td>
+                        Shards of Alara Mythic Rare
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <br />

@@ -1,0 +1,8 @@
+Polluted Delta
+Land
+{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card and put it into play. Then shuffle your library.
+
+Wirewood Lodge
+Land
+{T}: Add {1} to your mana pool.
+{G}, {T}: Untap target Elf.

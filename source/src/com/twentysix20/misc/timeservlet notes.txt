@@ -1,0 +1,18 @@
+Choose existing from
+-last X used
+-all (dropdown)
+-create new
+
+JSPs:
+ - "ask": shows list, shows last entry/mins since, choose project
+ - "record": update project time and time of day on bean (looks up last hit & now() again)
+ 	: output time of day log & per project log
+ 
+bean:
+ - load singleton hashtable for project list w/ most recent
+ - load singleton hashtable for the day
+ - store out on every "record" & reread back in for that day if JVM restarted
+
+XML config:
+-lastusedcount
+-log directory

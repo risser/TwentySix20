@@ -1,0 +1,75 @@
+Debtors' Knell 
+4(w/b)(w/b)(w/b)   
+Enchantment    
+(o(w/b) can be paid with either W or B.)
+At the beginning of your upkeep, put target creature card in a graveyard into play under your control.
+
+Dovescape 
+3(w/u)(w/u)(w/u)   
+Enchantment    
+(o(w/u) can be paid with either W or U.)
+Whenever a player plays a noncreature spell, counter that spell. That player puts X 1/1 white and blue Bird creature tokens with flying into play, where X is the spell's converted mana cost.  
+
+
+Izzet Guildmage 
+(u/r)(u/r)   
+Creature — Human Wizard   
+2/2   
+(o(u/r) can be paid with either U or R.)
+2U: Copy target instant spell you control with converted mana cost 2 or less. You may choose new targets for the copy.
+2R: Copy target sorcery spell you control with converted mana cost 2 or less. You may choose new targets for the copy.  
+
+Lurking Informant
+1(U / B)
+Creature - Human Rogue
+1/2
+(o(u/b) can be paid with either U or B.)
+2, T Look at the top card of target player's library. You may put that card into that player's graveyard.
+
+
+Gleancrawler 
+3(b/g)(b/g)(b/g)   
+Creature — Insect Horror   
+6/6   
+(o(b/g) can be paid with either B or G.)
+Trample
+At the end of your turn, return to your hand all creature cards in your graveyard that were put into your graveyard from play this turn.  
+
+Riot Spikes 
+(b/r)   
+Enchantment — Aura   
+(o(b/r) can be paid with either B or R.)
+Enchant creature
+Enchanted creature gets +2/-1.  
+
+
+Boros Guildmage 
+(r/w)(r/w)   
+Creature — Human Wizard   
+2/2   
+(o(r/w) can be paid with either R or W.)
+1R: Target creature gains haste until end of turn.
+1W: Target creature gains first strike until end of turn. 
+
+Wild Cantor 
+(r/g)   
+Creature — Human Druid   
+1/1   
+(o(r/g) can be paid with either R or G.)
+Sacrifice Wild Cantor: Add one mana of any color to your mana pool.
+
+
+Centaur Safeguard 
+2(g/w)   
+Creature — Centaur Warrior   
+3/1   
+(o(g/w) can be paid with either G or W.)
+When Centaur Safeguard is put into a graveyard from play, you may gain 3 life.  
+
+Shielding Plax 
+2(g/u)   
+Enchantment — Aura   
+(o(g/u) can be paid with either G or U.)
+Enchant creature
+When Shielding Plax comes into play, draw a card.
+Enchanted creature can't be the target of spells or abilities your opponents control.  

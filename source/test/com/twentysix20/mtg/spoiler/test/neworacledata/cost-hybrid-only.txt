@@ -1,0 +1,61 @@
+                <tr>
+                    <td>
+                        Name:
+                    </td>
+                    <td>
+                        <a id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_cardEntries_ctl02_cardLink" class="nameLink" onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=96966">Izzet Guildmage</a>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        Cost:
+                    </td>
+                    <td>
+                        (U/R)(U/R)
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        Type:
+                    </td>
+                    <td>
+                        Creature  — Human Wizard
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Pow/Tgh:
+                    </td>
+
+                    <td>
+                        (2/2)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Rules Text:
+                    </td>
+                    <td>
+                        ({(u/r)} can be paid with either {U} or {R}.)<br />
+
+{2}{U}: Copy target instant spell you control with converted mana cost 2 or less. You may choose new targets for the copy.<br />
+{2}{R}: Copy target sorcery spell you control with converted mana cost 2 or less. You may choose new targets for the copy.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Set/Rarity:
+                    </td>
+                    <td>
+                        Guildpact Uncommon
+                    </td>
+
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <br />
+                    </td>
+                </tr>
+            

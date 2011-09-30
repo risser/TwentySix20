@@ -1,0 +1,17 @@
+Enter list of cards (exact name & count)
+Returns cheapest combination for purchasing
+L: add filtering (store, condition, set)
+
+NEED:
+ - looks up stores & postal charges
+ - takes list of cards & count
+ - looks up cards in DB (site), creates list of all stores with copies (#, set, etc.)
+ 	- use DAO?
+ - For each card, for each store, choose the cheapest cards possible across sets to meet the # needs
+ 	- What if, for multiple copies, two versions at one store are cheaper than a version at another store?
+ 	- What if one store has 3 copies for .10 and you need 5, so it goes to another store
+ - chooses cheapest combination of all cards
+ 
+L: If the only way a card is available doesn't meet the filters, ask what to do.  Update the filter for that card, forget that card, or quit.
+L: If the card isn't available, ask to ignore it?
+L: If a card is the same price in several sets, allow preferences (white/black border, old/new frame, newer/older)

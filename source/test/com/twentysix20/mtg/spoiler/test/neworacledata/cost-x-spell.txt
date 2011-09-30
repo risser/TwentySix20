@@ -1,0 +1,60 @@
+                <tr>
+                    <td>
+                        Name:
+                    </td>
+                    <td>
+                        <a id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_cardEntries_ctl20_cardLink" class="nameLink" onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=4511">Choking Vines</a>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Cost:
+                    </td>
+                    <td>
+                        XG
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        Type:
+                    </td>
+                    <td>
+                        Instant
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+
+                        Pow/Tgh:
+                    </td>
+                    <td>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Rules Text:
+                    </td>
+                    <td>
+
+                        Cast Choking Vines only during the declare blockers step.<br />
+X target attacking creatures become blocked. Choking Vines deals 1 damage to each of those creatures. (This spell works on unblockable creatures.)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Set/Rarity:
+                    </td>
+                    <td>
+                        Weatherlight Common
+                    </td>
+
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <br />
+                    </td>
+                </tr>
+            

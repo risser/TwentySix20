@@ -1,0 +1,52 @@
+package com.twentysix20.peg;
+
+import com.twentysix20.peg.Hole;
+import junit.framework.*;
+
+public class testHole extends TestCase {
+
+	public static void main(String args[]) {
+		junit.textui.TestRunner.run(testHole.class);
+	}
+
+	protected void setUp() {
+	}
+
+/*	public void testBagMultiply() {
+		IMoney expected= MoneyBag.create(new Money(24, "CHF"), new Money(14, "USD"));
+		assertEquals(expected, fMB1.multiply(2));
+		assertEquals(fMB1, fMB1.multiply(1));
+		assertTrue(fMB1.multiply(0).isZero());
+	}
+*/
+
+	public void testNewHole()
+	{
+		Hole h = new Hole();
+		assertTrue(h.isEmpty());
+	}
+	public void testNewHolePeg()
+	{
+		Hole h = new Hole(true);
+		assertFalse(h.isEmpty());
+		Hole h1 = new Hole(false);
+		assertTrue(h1.isEmpty());
+	}
+	public void testPegNoPeg()
+	{
+		Hole h = new Hole();
+		h.insertPeg();
+		assertFalse(h.isEmpty());
+		h.removePeg();
+		assertTrue(h.isEmpty());
+	}
+	public void testNeighbor()
+	{
+		Hole h = new Hole();
+		Hole h2 = new Hole();
+		h.neighbor(0) = h2;
+		h2.neighbor(3) = h;
+		assertEquals(h.neighbor(0).neighbor(3),h);
+		assertEquals(h2.neighbor(3).neighbor(0),h2);
+	}
+}

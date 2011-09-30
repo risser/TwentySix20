@@ -1,0 +1,14 @@
+package com.twentysix20.adventure.engine;
+
+public class StringTable
+{
+
+	static public final int INTRODUCTION = 0;
+	static public final int INVENTORY = 1;
+	static public final int ITEM_DELIMITER = 2;
+
+	public static void main(String[] Args) throws Exception
+	{
+		System.out.println("adventure.util.StringTable main");
+	}
+}

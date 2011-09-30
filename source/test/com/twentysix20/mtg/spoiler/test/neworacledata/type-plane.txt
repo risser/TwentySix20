@@ -1,0 +1,60 @@
+                <tr>
+                    <td>
+                        Name:
+                    </td>
+                    <td>
+
+                        <a id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_cardEntries_ctl00_cardLink" class="nameLink" onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=198080">Pools of Becoming</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Cost:
+                    </td>
+                    <td>
+                        
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        Type:
+                    </td>
+                    <td>
+                        Plane  — Bolas’s Meditation Realm
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        Pow/Tgh:
+                    </td>
+                    <td>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Rules Text:
+                    </td>
+
+                    <td>
+                        At the beginning of your end step, put the cards in your hand on the bottom of your library in any order, then draw that many cards.<br />
+Whenever you roll {C}, reveal the top three cards of your planar deck. Each of the revealed cards' {C} abilities triggers. Then put the revealed cards on the bottom of your planar deck in any order.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Set/Rarity:
+                    </td>
+                    <td>
+
+                        Planechase Common
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <br />
+                    </td>
+                </tr>
+            

@@ -1,0 +1,60 @@
+                <tr>
+                    <td>
+                        Name:
+                    </td>
+                    <td>
+                        <a id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_cardEntries_ctl121_cardLink" class="nameLink" onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=5222">Shifting Wall</a>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        Cost:
+                    </td>
+                    <td>
+                        X
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        Type:
+                    </td>
+                    <td>
+                        Artifact Creature  — Wall
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Pow/Tgh:
+                    </td>
+
+                    <td>
+                        (0/0)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Rules Text:
+                    </td>
+                    <td>
+                        Defender (This creature can't attack.)<br />
+
+Shifting Wall enters the battlefield with X +1/+1 counters on it.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Set/Rarity:
+                    </td>
+                    <td>
+                        Stronghold Uncommon
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="2">
+                        <br />
+                    </td>
+                </tr>
+            

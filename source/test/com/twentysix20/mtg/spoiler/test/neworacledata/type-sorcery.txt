@@ -1,0 +1,61 @@
+          <tr>
+                    <td>
+                        Name:
+                    </td>
+
+                    <td>
+                        <a id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_cardEntries_ctl01_cardLink" class="nameLink" onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=179513">Absorb Vis</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Cost:
+                    </td>
+                    <td>
+
+                        6B
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Type:
+                    </td>
+                    <td>
+                        Sorcery
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        Pow/Tgh:
+                    </td>
+                    <td>
+                        
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        Rules Text:
+                    </td>
+                    <td>
+                        Target player loses 4 life and you gain 4 life.<br />
+Basic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+
+                        Set/Rarity:
+                    </td>
+                    <td>
+                        Conflux Common
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <br />
+                    </td>
+
+                </tr>
+            

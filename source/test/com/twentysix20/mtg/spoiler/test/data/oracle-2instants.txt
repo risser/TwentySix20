@@ -1,0 +1,9 @@
+Absorb
+{W}{U}{U}
+Instant
+Counter target spell. You gain 3 life.
+
+Active Volcano
+{R}
+Instant
+Choose one -- Destroy target blue permanent; or return target Island to its owner's hand.

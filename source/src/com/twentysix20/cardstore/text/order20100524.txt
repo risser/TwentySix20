@@ -1,0 +1,230 @@
+=== 5/24: $122.40=$4.35 from TrollandToad. $22.54 from Hobby Goblins. $13.87 from Gamers' Inn. $57.65 from ChannelFireball. $23.99 from Alter Reality Games.
+1 Akroma's Memorial
+1 Ancestral Vision
+1 Ancient Spider
+1 Arcbound Crusher
+1 Ashling the Pilgrim
+1 Aura Shards
+1 Austere Command
+1 Baru, Fist of Krosa
+1 Beacon of Creation
+1 Bounteous Kirin
+1 Broodstar
+1 Cauldron of Souls
+1 Deep-Sea Kraken
+1 Dragon Roost
+1 Eternal Witness
+1 Extraplanar Lens
+1 Faerie Conclave
+1 False Cure
+1 General's Kabuto
+1 Grim Feast
+1 Hand of Justice
+1 Hanna, Ship's Navigator
+1 Helm of Kaldra
+1 Indomitable Ancients
+1 Jugan, the Rising Star
+1 Kamahl, Fist of Krosa
+1 Kaysa
+1 Kodama of the North Tree
+1 Lodestone Myr
+1 Magnigoth Treefolk
+1 Mana Reflection
+1 Mirari's Wake
+1 Mirri, Cat Warrior
+1 Molimo, Maro-Sorcerer
+1 Myojin of Life's Web
+1 Nemata, Grove Guardian
+1 Oracle of Mul Daya
+1 Otherworldly Journey
+1 Overwhelming Instinct
+1 Predator, Flagship
+1 Primalcrux
+1 Quietus Spike
+1 Regrowth
+1 Relentless Rats
+1 Repercussion
+1 Rib Cage Spider
+1 Rofellos, Llanowar Emissary
+1 Sakiko, Mother of Summer
+1 Shield of Kaldra
+1 Smoke
+1 Spellshock
+1 Steelshaper Apprentice
+1 Stonehewer Giant
+1 Sword of Fire and Ice
+1 Sword of Light and Shadow
+1 Sword of the Chosen
+1 Tatsumasa, the Dragon's Fang
+1 Timber Protector
+1 Tranquil Grove
+1 Vernal Bloom
+1 Vigor
+1 Woodfall Primus
+1 Yavimaya Ancients
+
+2 Heartbeat of Spring
+3 Serum Tank
+3 Well of Lost Dreams
+4 Hostility
+4 Reverse the Sands
+5 Terramorphic Expanse
+9 Soul Warden
+20 Evolving Wilds
+
+Shopper: 1m, 14s, 907ms; (74907ms)
+[
+====================
+Multi-Vendor Order:
+====================
+  TOTAL: 17.22
+  COUNT: 50
+====================
+
+-=-=-=-=-=-=-=-=-=-
+CoreTCG Order:
+------------------
+Number of Cards: 31
+------------------
+Subtotal: $  4.20
+Shipping: $  2.99
+------------------
+Total:    $7.19
+------------------
++ Evolving Wilds
+  $  0.15 :  6 Rise of the Eldrazi Unplayed       StandardSupplyRecord@2e716859(cardName: Evolving Wilds; condition: Unplayed; cost: 0.15; quantity: 6; set: Rise of the Eldrazi; vendor: CoreTCG)
+
++ Hostility
+  $  0.28 :  4 Lorwyn Unplayed                    StandardSupplyRecord@983bb6e9(cardName: Hostility; condition: Unplayed; cost: 0.28; quantity: 6; set: Lorwyn; vendor: CoreTCG)
+
++ Reverse the Sands
+  $  0.31 :  4 Champions of Kamigawa Unplayed     StandardSupplyRecord@1c5071b9(cardName: Reverse the Sands; condition: Unplayed; cost: 0.31; quantity: 4; set: Champions of Kamigawa; vendor: CoreTCG)
+
++ Serum Tank
+  $  0.09 :  3 Mirrodin Unplayed                  StandardSupplyRecord@87c9cfa(cardName: Serum Tank; condition: Unplayed; cost: 0.09; quantity: 12; set: Mirrodin; vendor: CoreTCG)
+
++ Soul Warden
+  $  0.03 :  9 Magic 2010 (M10) Unplayed          StandardSupplyRecord@c49121e8(cardName: Soul Warden; condition: Unplayed; cost: 0.03; quantity: 19; set: Magic 2010 (M10); vendor: CoreTCG)
+
++ Terramorphic Expanse
+  $  0.08 :  5 Magic 2010 (M10) Unplayed          StandardSupplyRecord@47f90824(cardName: Terramorphic Expanse; condition: Unplayed; cost: 0.08; quantity: 16; set: Magic 2010 (M10); vendor: CoreTCG)
+
+-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=-=-=-=-=-=-
+Gamers' Inn Order:
+------------------
+Number of Cards: 15
+------------------
+Subtotal: $  4.59
+Shipping: $  1.98
+------------------
+Total:    $6.57
+------------------
++ Evolving Wilds
+  $  0.21 : 12 Rise of the Eldrazi Unplayed       StandardSupplyRecord@9fc9ca70(cardName: Evolving Wilds; condition: Unplayed; cost: 0.21; quantity: 12; set: Rise of the Eldrazi; vendor: Gamers' Inn)
+
++ Well of Lost Dreams
+  $  0.69 :  3 Darksteel Unplayed                 StandardSupplyRecord@398f5e34(cardName: Well of Lost Dreams; condition: Unplayed; cost: 0.69; quantity: 13; set: Darksteel; vendor: Gamers' Inn)
+
+-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=-=-=-=-=-=-
+adventuresON Order:
+------------------
+Number of Cards: 4
+------------------
+Subtotal: $  2.86
+Shipping: $  0.60
+------------------
+Total:    $3.46
+------------------
++ Evolving Wilds
+  $  0.44 :  2 Rise of the Eldrazi Unplayed       StandardSupplyRecord@672c3877(cardName: Evolving Wilds; condition: Unplayed; cost: 0.44; quantity: 20; set: Rise of the Eldrazi; vendor: adventuresON)
+
++ Heartbeat of Spring
+  $  0.99 :  2 Champions of Kamigawa Unplayed     StandardSupplyRecord@22f6b6c5(cardName: Heartbeat of Spring; condition: Unplayed; cost: 0.99; quantity: 23; set: Champions of Kamigawa; vendor: adventuresON)
+
+-=-=-=-=-=-=-=-=-=-
+====================
+  TOTAL: 17.22
+  COUNT: 50
+====================
+, 
+====================
+Multi-Vendor Order:
+====================
+  TOTAL: 17.22
+  COUNT: 50
+====================
+
+-=-=-=-=-=-=-=-=-=-
+CoreTCG Order:
+------------------
+Number of Cards: 33
+------------------
+Subtotal: $  6.18
+Shipping: $  2.99
+------------------
+Total:    $9.17
+------------------
++ Evolving Wilds
+  $  0.15 :  6 Rise of the Eldrazi Unplayed       StandardSupplyRecord@2e716859(cardName: Evolving Wilds; condition: Unplayed; cost: 0.15; quantity: 6; set: Rise of the Eldrazi; vendor: CoreTCG)
+
++ Heartbeat of Spring
+  $  0.99 :  2 Champions of Kamigawa Unplayed     StandardSupplyRecord@ea490666(cardName: Heartbeat of Spring; condition: Unplayed; cost: 0.99; quantity: 5; set: Champions of Kamigawa; vendor: CoreTCG)
+
++ Hostility
+  $  0.28 :  4 Lorwyn Unplayed                    StandardSupplyRecord@983bb6e9(cardName: Hostility; condition: Unplayed; cost: 0.28; quantity: 6; set: Lorwyn; vendor: CoreTCG)
+
++ Reverse the Sands
+  $  0.31 :  4 Champions of Kamigawa Unplayed     StandardSupplyRecord@1c5071b9(cardName: Reverse the Sands; condition: Unplayed; cost: 0.31; quantity: 4; set: Champions of Kamigawa; vendor: CoreTCG)
+
++ Serum Tank
+  $  0.09 :  3 Mirrodin Unplayed                  StandardSupplyRecord@87c9cfa(cardName: Serum Tank; condition: Unplayed; cost: 0.09; quantity: 12; set: Mirrodin; vendor: CoreTCG)
+
++ Soul Warden
+  $  0.03 :  9 Magic 2010 (M10) Unplayed          StandardSupplyRecord@c49121e8(cardName: Soul Warden; condition: Unplayed; cost: 0.03; quantity: 19; set: Magic 2010 (M10); vendor: CoreTCG)
+
++ Terramorphic Expanse
+  $  0.08 :  5 Magic 2010 (M10) Unplayed          StandardSupplyRecord@47f90824(cardName: Terramorphic Expanse; condition: Unplayed; cost: 0.08; quantity: 16; set: Magic 2010 (M10); vendor: CoreTCG)
+
+-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=-=-=-=-=-=-
+Gamers' Inn Order:
+------------------
+Number of Cards: 15
+------------------
+Subtotal: $  4.59
+Shipping: $  1.98
+------------------
+Total:    $6.57
+------------------
++ Evolving Wilds
+  $  0.21 : 12 Rise of the Eldrazi Unplayed       StandardSupplyRecord@9fc9ca70(cardName: Evolving Wilds; condition: Unplayed; cost: 0.21; quantity: 12; set: Rise of the Eldrazi; vendor: Gamers' Inn)
+
++ Well of Lost Dreams
+  $  0.69 :  3 Darksteel Unplayed                 StandardSupplyRecord@398f5e34(cardName: Well of Lost Dreams; condition: Unplayed; cost: 0.69; quantity: 13; set: Darksteel; vendor: Gamers' Inn)
+
+-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=-=-=-=-=-=-
+adventuresON Order:
+------------------
+Number of Cards: 2
+------------------
+Subtotal: $  0.88
+Shipping: $  0.60
+------------------
+Total:    $1.48
+------------------
++ Evolving Wilds
+  $  0.44 :  2 Rise of the Eldrazi Unplayed       StandardSupplyRecord@672c3877(cardName: Evolving Wilds; condition: Unplayed; cost: 0.44; quantity: 20; set: Rise of the Eldrazi; vendor: adventuresON)
+
+-=-=-=-=-=-=-=-=-=-
+====================
+  TOTAL: 17.22
+  COUNT: 50
+====================
+]

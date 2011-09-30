@@ -1,0 +1,9 @@
+Acid Rain
+3U
+Sorcery
+Destroy all Forests.
+
+Absorb
+WUU
+Instant
+Counter target spell. You gain 3 life.

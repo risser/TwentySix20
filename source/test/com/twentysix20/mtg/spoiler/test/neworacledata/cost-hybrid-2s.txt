@@ -1,0 +1,62 @@
+                <tr>
+                    <td>
+                        Name:
+                    </td>
+
+                    <td>
+                        <a id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_cardEntries_ctl30_cardLink" class="nameLink" onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=159408">Reaper King</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Cost:
+                    </td>
+                    <td>
+
+                        (2/W)(2/U)(2/B)(2/R)(2/G)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Type:
+                    </td>
+                    <td>
+                        Legendary Artifact Creature  — Scarecrow
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        Pow/Tgh:
+                    </td>
+                    <td>
+                        (6/6)
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        Rules Text:
+                    </td>
+                    <td>
+                        ({(2/w)} can be paid with any two mana or with {W}. This card's converted mana cost is 10.)<br />
+Other Scarecrow creatures you control get +1/+1.<br />
+Whenever another Scarecrow enters the battlefield under your control, destroy target permanent.
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        Set/Rarity:
+                    </td>
+                    <td>
+                        Shadowmoor Rare
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <br />
+
+                    </td>
+                </tr>
+            

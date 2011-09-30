@@ -1,0 +1,44 @@
+// Decompiled by Jad v1.5.8e. Copyright 2001 Pavel Kouznetsov.
+// Jad home page: http://www.geocities.com/kpdus/jad.html
+// Decompiler options: packimports(3) 
+// Source File Name:   containsTest.java
+
+import java.io.PrintStream;
+
+public class containsTest
+{
+
+    public containsTest(String s)
+    {
+        myString = null;
+        myString = s;
+    }
+
+    public boolean equals(containsTest containstest)
+    {
+        System.out.println("\nIn Equals: " + myString + " = " + containstest.getString());
+        System.out.println(".equals: " + myString.equals(containstest.getString()));
+        System.out.println("==: " + (myString == containstest.getString()) + "\n");
+        return myString.equals(containstest.getString());
+    }
+
+    public String getString()
+    {
+        return myString;
+    }
+
+    public static void main(String args[])
+        throws Exception
+    {
+        containsTest containstest = new containsTest("Test1");
+        containsTest containstest1 = new containsTest("Test2");
+        int i = 1;
+        containsTest containstest2 = new containsTest("Test" + i++);
+        System.out.println("a.b: " + containstest.equals(containstest1));
+        System.out.println("a.c: " + containstest.equals(containstest2));
+        System.out.println("a==b: " + (containstest == containstest1));
+        System.out.println("a==c: " + (containstest == containstest2));
+    }
+
+    private String myString;
+}

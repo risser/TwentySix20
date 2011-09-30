@@ -1,0 +1,29 @@
+
+Etched Oracle 
+4   
+Artifact Creature    
+0/0   
+Sunburst (This comes into play with a +1/+1 counter on it for each color of mana used to pay its cost.)
+1, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.  
+
+Spinal Parasite 
+5   
+Artifact Creature — Insect   
+-1/-1   
+Sunburst (This comes into play with a +1/+1 counter on it for each color of mana used to pay its cost.)
+Remove two +1/+1 counters from Spinal Parasite: Remove a counter from target permanent.  
+
+Shapeshifter 
+6   
+Artifact Creature    
+*/7-*   
+As Shapeshifter comes into play, choose a number between 0 and 7.
+At the beginning of your upkeep, you may choose a number between 0 and 7.
+Shapeshifter’s power is equal to the last chosen number and its toughness is equal to 7 minus that number.  
+
+Bosh, Iron Golem 
+8   
+Legendary Artifact Creature — Golem   
+6/7   
+Trample
+3R, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact’s converted mana cost to target creature or player.  

@@ -1,0 +1,53 @@
+Jungle Troll 
+1RG   
+Creature — Troll   
+2/1   
+R: Regenerate Jungle Troll.
+G: Regenerate Jungle Troll.  
+
+Dakkon Blackblade 
+2WUUB   
+Legendary Creature    
+*/*   
+Dakkon Blackblade’s power and toughness are each equal to the number of lands you control.  
+
+Haunting Apparition 
+1UB   
+Creature — Spirit   
+1+*/2   
+Flying
+As Haunting Apparition comes into play, choose an opponent.
+Haunting Apparition’s power is equal to 1 plus the number of green creature cards in the chosen player’s graveyard.  
+
+Lhurgoyf 
+2GG   
+Creature — Lhurgoyf   
+*/1+*   
+Lhurgoyf’s power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.  
+
+Craw Wurm 
+4GG   
+Creature — Wurm   
+6/4   
+
+Chaotic Goo 
+2RR   
+Creature — Ooze   
+0/0   
+Chaotic Goo comes into play with three +1/+1 counters on it.
+At the beginning of your upkeep, you may flip a coin. If you win the flip, add a +1/+1 counter to Chaotic Goo. If you lose the flip, remove a +1/+1 counter from Chaotic Goo.  
+
+Pit Imp 
+B   
+Creature — Imp   
+0/1   
+Flying
+B: Pit Imp gets +1/+0 until end of turn. Play this ability no more than twice each turn.  
+
+Polar Kraken 
+8UUU   
+Creature — Kraken   
+11/11   
+Polar Kraken comes into play tapped.
+Cumulative upkeep—Sacrifice a land.
+Trample  

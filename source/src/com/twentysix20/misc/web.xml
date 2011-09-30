@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.2//EN"
+    "http://java.sun.com/j2ee/dtds/web-app_2.2.dtd">
+
+<web-app>
+
+  <servlet>
+    <servlet-name>log_test_servlet</servlet-name>
+    <servlet-class>testLoggerServlet</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>time_servlet</servlet-name>
+    <servlet-class>timeservlet</servlet-class>
+  </servlet>
+
+<servlet>
+	<servlet-name>LL_servlet</servlet-name>
+	<servlet-class>LLServlet</servlet-class>
+</servlet>
+
+<servlet>
+	<servlet-name>go_serv</servlet-name>
+	<servlet-class>com.twentysix20.go.GoServlet</servlet-class>
+	<init-param>
+		<param-name>url_root</param-name>
+		<param-value>localhost</param-value>
+	</init-param>
+	<init-param>
+		<param-name>app_root</param-name>
+		<param-value>wls/play</param-value>
+	</init-param>
+	<init-param>
+		<param-name>mailserv</param-name>
+		<param-value></param-value>
+	</init-param>
+	<init-param>
+		<param-name>login</param-name>
+		<param-value>risser</param-value>
+	</init-param>
+	<init-param>
+		<param-name>pass</param-name>
+		<param-value>sandy71</param-value>
+	</init-param>
+	<init-param>
+		<param-name>board_img</param-name>
+		<param-value></param-value>
+	</init-param>
+	<init-param>
+		<param-name>cross_img</param-name>
+		<param-value>big_cross.gif</param-value>
+	</init-param>
+	<init-param>
+		<param-name>piece_img</param-name>
+		<param-value>gauge.gif</param-value>
+	</init-param>
+</servlet>
+
+<servlet>
+	<servlet-name>TimeCopServ</servlet-name>
+	<servlet-class>TimeCopServlet</servlet-class>
+	<init-param>
+		<param-name>ids</param-name>
+		<param-value>
+			a25972t ae1026t ae8165t at0490t nh4g0ht nh4g0it nh4g0st nh4g0wt nh4g19t nh4g2nt nh4g2wt nh4g13t ngmvzmt
+		</param-value>
+	</init-param>
+	<init-param>
+		<param-name>count_limit</param-name>
+		<param-value>5</param-value>
+	</init-param>
+	<init-param>
+		<param-name>hour_limit</param-name>
+		<param-value>30</param-value>
+	</init-param>
+</servlet>
+
+<servlet-mapping>
+	<servlet-name>TimeCopServ</servlet-name>
+	<url-pattern>/timecop</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+	<servlet-name>go_serv</servlet-name>
+	<url-pattern>/go</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+	<servlet-name>LL_servlet</servlet-name>
+	<url-pattern>/LL</url-pattern>
+</servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>time_servlet</servlet-name>
+    <url-pattern>/time</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>log_test_servlet</servlet-name>
+    <url-pattern>/logger</url-pattern>
+  </servlet-mapping>
+
+<taglib>
+	<taglib-uri>
+		rc-taglib.tld
+	</taglib-uri>
+	<taglib-location>
+		/WEB-INF/rc-taglib.tld
+	</taglib-location>
+</taglib>
+<taglib>
+	<taglib-uri>
+		JSCalendarTag.tld
+	</taglib-uri>
+	<taglib-location>
+		/WEB-INF/JSCalendarTag.tld
+	</taglib-location>
+</taglib>
+<taglib>
+	<taglib-uri>
+		tabQem
+	</taglib-uri>
+	<taglib-location>
+		/WEB-INF/tabQem.tld
+	</taglib-location>
+</taglib>
+<taglib>
+	<taglib-uri>
+		GEAETag.tld
+	</taglib-uri>
+	<taglib-location>
+		/WEB-INF/raj.tld
+	</taglib-location>
+</taglib>
+
+
+<!-- Must Remove this for Weblogic -->
+  <security-constraint>
+    <web-resource-collection>
+      <web-resource-name>Sample Application</web-resource-name>
+      <url-pattern>/*</url-pattern>
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>everyone</role-name>
+    </auth-constraint>
+  </security-constraint>
+
+    <login-config>
+    <auth-method>BASIC</auth-method>
+    <realm-name>Local Development Environment</realm-name>
+    </login-config>
+<!-- End of Remove for Weblogic -->
+
+</web-app>

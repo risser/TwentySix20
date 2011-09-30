@@ -1,0 +1,26 @@
+- Create the board
+	- create a piece
+		- position
+		- direction
+		- owner
+		- standard/king
+	- board size
+- Move a piece
+	- Determine who's turn it is?
+		- who goes first?
+	- moving
+		- sliding diagonally forward one "space"
+		- jumping/multiple jumps in a row
+		- "up" vs. "down"/player direction
+		- king's moves vs. standard
+		- no moving off the board
+		- no moving onto other pieces
+	- becoming a king
+- Determine winner/winning state
+- Adding pieces back on to board?
+- Option: Require jump if available?
+- Board:
+	- Occupation of "square"
+		- empty
+		- player 1/2
+		- king/standard?

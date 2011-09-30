@@ -1,0 +1,21 @@
+Evincar’s Justice 
+2BB   
+Sorcery    
+Buyback 3 (You may pay 3 in addition to any other costs as you play this spell. If you do, put Evincar’s Justice into your hand instead of your graveyard as part of its resolution.)
+Evincar’s Justice deals 2 damage to each creature and each player.  
+
+“Ach! Hans, Run!” 
+2RRGG   
+Enchantment    
+At the beginning of your upkeep, you may say “Ach! Hans, run! It’s the . . .” and name a creature card. If you do, search your library for the named card, put it into play, then shuffle your library. That creature has haste. Remove it from the game at end of turn.  
+
+_____ 
+1U   
+Creature — Shapeshifter   
+1/1   
+1: This card’s name becomes the name of your choice. Play this ability anywhere, anytime.  
+
+Æther Burst 
+1U   
+Instant    
+Return up to X target creatures to their owners’ hands, where X is one plus the number of cards named Æther Burst in all graveyards as you play Æther Burst.  

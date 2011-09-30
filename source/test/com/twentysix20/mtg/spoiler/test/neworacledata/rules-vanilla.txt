@@ -1,0 +1,59 @@
+                <tr>
+                    <td>
+                        Name:
+                    </td>
+                    <td>
+
+                        <a id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_cardEntries_ctl00_cardLink" class="nameLink" onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=129586">Grizzly Bears</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Cost:
+                    </td>
+                    <td>
+                        1G
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        Type:
+                    </td>
+                    <td>
+                        Creature  — Bear
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        Pow/Tgh:
+                    </td>
+                    <td>
+                        (2/2)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Rules Text:
+                    </td>
+
+                    <td>
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Set/Rarity:
+                    </td>
+                    <td>
+                        Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Starter 1999 Common, Classic Sixth Edition Common, Portal Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+                    </td>
+
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <br />
+                    </td>
+                </tr>
+            

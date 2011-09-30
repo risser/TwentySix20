@@ -1,0 +1,12 @@
+Paradox Haze 
+2U 
+Enchantment - Aura 
+Enchant player 
+At the beginning of enchanted player's first upkeep each turn, that player gets an additional upkeep step after this step. 
+
+Charm School
+2W
+Enchant Player 
+When Charm School comes into play, choose a color and balance Charm School on your head. 
+Prevent all damage to you of the chosen color. 
+If Charm School falls off your head, sacrifice Charm School. 

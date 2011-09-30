@@ -1,0 +1,59 @@
+                <tr>
+
+                    <td>
+                        Name:
+                    </td>
+                    <td>
+                        <a id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_cardEntries_ctl03_cardLink" class="nameLink" onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=159315">Spinal Villain</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+
+                        Cost:
+                    </td>
+                    <td>
+                        2R
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Type:
+                    </td>
+
+                    <td>
+                        Creature  — Beast
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Pow/Tgh:
+                    </td>
+                    <td>
+                        (1/2)
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        Rules Text:
+                    </td>
+                    <td>
+                        {T}: Destroy target blue creature.
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        Set/Rarity:
+                    </td>
+                    <td>
+                        Masters Edition Uncommon, Legends Rare
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <br />
+
+                    </td>
+                </tr>

@@ -1,0 +1,60 @@
+                <tr>
+                    <td>
+                        Name:
+                    </td>
+                    <td>
+
+                        <a id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_cardEntries_ctl02_cardLink" class="nameLink" onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=73928">Spinal Parasite</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Cost:
+                    </td>
+                    <td>
+                        5
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        Type:
+                    </td>
+                    <td>
+                        Artifact Creature  — Insect
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        Pow/Tgh:
+                    </td>
+                    <td>
+                        (-1/-1)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Rules Text:
+                    </td>
+
+                    <td>
+                        Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)<br />
+Remove two +1/+1 counters from Spinal Parasite: Remove a counter from target permanent.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Set/Rarity:
+                    </td>
+                    <td>
+
+                        Fifth Dawn Uncommon
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <br />
+                    </td>
+                </tr>
+            

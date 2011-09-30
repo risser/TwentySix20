@@ -1,0 +1,10 @@
+Fishliver Oil 
+1U   
+Enchantment — Aura   
+Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.)
+Enchanted creature has islandwalk. (This creature is unblockable as long as defending player controls an Island.)  
+
+Honden of Cleansing Fire 
+3W   
+Legendary Enchantment — Shrine   
+At the beginning of your upkeep, you gain 2 life for each Shrine you control.  

@@ -1,0 +1,9 @@
+1) XML card reader
+2) Article Parser
+    - load card names into Entry (?)
+    - parse and compare items
+    - create list of found items
+    - watch for decks (\d\s<cardname>), keep in separate list
+    - output actual Oracle card info for individual cards
+    - output "decks" separately (for cut/paste into deckbuilder xls)
+    - output html w/ floatover javascript (see weblogic console for example)

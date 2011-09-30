@@ -1,0 +1,1699 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+	<Series>
+		<id>78260</id>
+		<Actors>|Don Messick|Casey Kasem|Frank Welker|Alan Oppenheimer|Heather
+			North|Jack Angel|Jim MacGeorge|Nicole Jaffe|Stefanianna
+			Christopherson|Barry Richards|George A. Robertson|Hal Smith|Jean
+			Vander Pyl|John Stephenson|Lennie Weinrib|Michael Stull|Susan
+			Blu|Susan Steward|Vic Perrin|</Actors>
+		<Airs_DayOfWeek></Airs_DayOfWeek>
+		<Airs_Time></Airs_Time>
+		<ContentRating>TV-G</ContentRating>
+		<FirstAired>1969-09-13</FirstAired>
+
+		<Genre>|Animation|</Genre>
+		<IMDB_ID>tt0063950</IMDB_ID>
+		<Language>en</Language>
+		<Network>CBS</Network>
+		<NetworkID></NetworkID>
+		<Overview>The first incarnation of what has become a
+			franchise-of-sorts, Scooby-Doo is a large, loveable but cowardly
+			Great Dane who hangs around four California high school students
+			(Fred, Velma, Daphne and Shaggy). The four teen-agers are in constant
+			search of mysteries and adventures, driving around in a bright green
+			van known as the Mystery Machine. Many of the group's adventures
+			involve villians who take on supernatural disguises (ghosts and
+			monsters); the villians' activities usually involve blackmail, theft,
+			fraud and other forms of corruption.</Overview>
+
+		<Rating>9.1</Rating>
+		<RatingCount>11</RatingCount>
+		<Runtime>30</Runtime>
+		<SeriesID>826</SeriesID>
+		<SeriesName>Scooby-Doo, Where Are You!</SeriesName>
+		<Status>Ended</Status>
+
+		<added></added>
+		<addedBy></addedBy>
+		<banner>graphical/78260-g4.jpg</banner>
+		<fanart>fanart/original/78260-5.jpg</fanart>
+		<lastupdated>1314401963</lastupdated>
+		<poster>posters/78260-1.jpg</poster>
+		<zap2it_id>SH003735</zap2it_id>
+
+	</Series>
+	<Episode>
+		<id>1907691</id>
+		<Combined_episodenumber>1</Combined_episodenumber>
+		<Combined_season>0</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+
+		<DVD_season></DVD_season>
+		<Director>Charles A. Nichols</Director>
+		<EpImgFlag>3</EpImgFlag>
+		<EpisodeName>Scooby-Doo and the Ghoul School</EpisodeName>
+		<EpisodeNumber>1</EpisodeNumber>
+		<FirstAired>1988-10-31</FirstAired>
+
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>Scooby, Shaggy and Scrappy get a job as gym teachers at a
+			school for daughters of famous monsters. After the girls are
+			kidnapped, it's up to Scooby and the gang to save them!</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating></Rating>
+		<RatingCount>0</RatingCount>
+
+		<SeasonNumber>0</SeasonNumber>
+		<Writer>Glenn Leopold</Writer>
+		<absolute_number></absolute_number>
+		<airsafter_season></airsafter_season>
+		<airsbefore_episode></airsbefore_episode>
+		<airsbefore_season></airsbefore_season>
+		<filename>episodes/78260/1907691.jpg</filename>
+
+		<lastupdated>1268839927</lastupdated>
+		<seasonid>25717</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>2521541</id>
+		<Combined_episodenumber>2</Combined_episodenumber>
+
+		<Combined_season>0</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director></Director>
+		<EpImgFlag>1</EpImgFlag>
+		<EpisodeName>Funky Fashion</EpisodeName>
+
+		<EpisodeNumber>2</EpisodeNumber>
+		<FirstAired></FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>The fashion of each character is compared and critiqued.</Overview>
+		<ProductionCode></ProductionCode>
+
+		<Rating></Rating>
+		<RatingCount>0</RatingCount>
+		<SeasonNumber>0</SeasonNumber>
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<airsafter_season></airsafter_season>
+		<airsbefore_episode></airsbefore_episode>
+		<airsbefore_season></airsbefore_season>
+
+		<filename>episodes/78260/2521541.jpg</filename>
+		<lastupdated>1287330809</lastupdated>
+		<seasonid>25717</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>2521571</id>
+
+		<Combined_episodenumber>3</Combined_episodenumber>
+		<Combined_season>0</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+
+		<EpisodeName>Street Smarts</EpisodeName>
+		<EpisodeNumber>3</EpisodeNumber>
+		<FirstAired></FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>What do people remember most about Scooby and the gang?</Overview>
+
+		<ProductionCode></ProductionCode>
+		<Rating></Rating>
+		<RatingCount>0</RatingCount>
+		<SeasonNumber>0</SeasonNumber>
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<airsafter_season></airsafter_season>
+		<airsbefore_episode></airsbefore_episode>
+
+		<airsbefore_season></airsbefore_season>
+		<filename></filename>
+		<lastupdated>1279906582</lastupdated>
+		<seasonid>25717</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>2521581</id>
+
+		<Combined_episodenumber>4</Combined_episodenumber>
+		<Combined_season>0</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director></Director>
+		<EpImgFlag>1</EpImgFlag>
+
+		<EpisodeName>Scooby-Doo's Ultimate Fans</EpisodeName>
+		<EpisodeNumber>4</EpisodeNumber>
+		<FirstAired></FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>Look at the homes of people that collect Scooby-Doo
+			memorabilia.</Overview>
+
+		<ProductionCode></ProductionCode>
+		<Rating></Rating>
+		<RatingCount>0</RatingCount>
+		<SeasonNumber>0</SeasonNumber>
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<airsafter_season></airsafter_season>
+		<airsbefore_episode></airsbefore_episode>
+
+		<airsbefore_season></airsbefore_season>
+		<filename>episodes/78260/2521581.jpg</filename>
+		<lastupdated>1287330563</lastupdated>
+		<seasonid>25717</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>2521591</id>
+
+		<Combined_episodenumber>5</Combined_episodenumber>
+		<Combined_season>0</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director></Director>
+		<EpImgFlag>1</EpImgFlag>
+
+		<EpisodeName>Get The Picture: How To Draw Scooby-Doo And The Gang</EpisodeName>
+		<EpisodeNumber>5</EpisodeNumber>
+		<FirstAired></FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>Learn how to draw Scooby and the gang.</Overview>
+
+		<ProductionCode></ProductionCode>
+		<Rating></Rating>
+		<RatingCount>0</RatingCount>
+		<SeasonNumber>0</SeasonNumber>
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<airsafter_season></airsafter_season>
+		<airsbefore_episode></airsbefore_episode>
+
+		<airsbefore_season></airsbefore_season>
+		<filename>episodes/78260/2521591.jpg</filename>
+		<lastupdated>1287331556</lastupdated>
+		<seasonid>25717</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>2988891</id>
+
+		<Combined_episodenumber>6</Combined_episodenumber>
+		<Combined_season>0</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director></Director>
+		<EpImgFlag>1</EpImgFlag>
+
+		<EpisodeName>Hanna-Barbera: From H to B</EpisodeName>
+		<EpisodeNumber>6</EpisodeNumber>
+		<FirstAired></FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>20 minute featurette 'Hanna-Barbera: From H to B.' It has
+			interviews with Gordon Hunt, Tony Benedict, Mark Young, Jerry
+			Eisenberg, Maggie Roberts, Iwao Takamoto, Andrea Romano, Joe Barbera,
+			Bill Hanna, Willie Ito, Bob Singer, James Walker, Paul Sabella,
+			Barbara Kruger, Iraj Paran, Hoyt Curtin, Kelly Ward, and Ed Collins.
+			The documentarydoesn’t just cover Scooby and hits on the output of
+			the iconic animation studio.</Overview>
+
+		<ProductionCode></ProductionCode>
+		<Rating></Rating>
+		<RatingCount>0</RatingCount>
+		<SeasonNumber>0</SeasonNumber>
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<airsafter_season></airsafter_season>
+		<airsbefore_episode></airsbefore_episode>
+
+		<airsbefore_season></airsbefore_season>
+		<filename>episodes/78260/2988891.jpg</filename>
+		<lastupdated>1287331466</lastupdated>
+		<seasonid>25717</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>4077855</id>
+
+		<Combined_episodenumber>7</Combined_episodenumber>
+		<Combined_season>2</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season>2</DVD_season>
+		<Director></Director>
+
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>America Loves Scooby-Doo Music Video</EpisodeName>
+		<EpisodeNumber>7</EpisodeNumber>
+		<FirstAired></FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+
+		<Overview>A collection of clips synced with the music video written by
+			Scott Innes, Claude Parish, and Nelson Blanchard. Performed by Scott
+			Innes and Nelson Blanchard.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating></Rating>
+		<RatingCount>0</RatingCount>
+		<SeasonNumber>0</SeasonNumber>
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+
+		<airsafter_season></airsafter_season>
+		<airsbefore_episode></airsbefore_episode>
+		<airsbefore_season></airsbefore_season>
+		<filename></filename>
+		<lastupdated>1302722035</lastupdated>
+		<seasonid>25717</seasonid>
+		<seriesid>78260</seriesid>
+
+	</Episode>
+	<Episode>
+		<id>277830</id>
+		<Combined_episodenumber>1</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+
+		<DVD_season></DVD_season>
+		<Director>|Charles A. Nichols|Joseph Barbera|William Hanna|</Director>
+		<EpImgFlag>1</EpImgFlag>
+		<EpisodeName>What a Night for a Knight</EpisodeName>
+		<EpisodeNumber>1</EpisodeNumber>
+		<FirstAired>1969-09-13</FirstAired>
+
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>After coming back from the movies Scooby-Doo and Shaggy come
+			across a pick up truck and a suit of armor in the driver's seat.
+			According to an ancient superstition the armor comes to life during
+			the night of a full moon.</Overview>
+		<ProductionCode>6901</ProductionCode>
+		<Rating>7.3</Rating>
+		<RatingCount>7</RatingCount>
+
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277830.jpg</filename>
+		<lastupdated>1301088866</lastupdated>
+		<seasonid>14622</seasonid>
+
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277831</id>
+		<Combined_episodenumber>2</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>A Clue for Scooby-Doo</EpisodeName>
+		<EpisodeNumber>2</EpisodeNumber>
+		<FirstAired>1969-09-20</FirstAired>
+
+		<GuestStars>|Jean Vander Pyl|</GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>While Scooby-Doo is surfing, he encounters a creature in a
+			diving suit. An old sea salt tells the gang that it's the ghost of
+			Captain Cutler who is responsible for the disappearance of many
+			ships.</Overview>
+		<ProductionCode>6902</ProductionCode>
+		<Rating>8.0</Rating>
+
+		<RatingCount>2</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277831.jpg</filename>
+		<lastupdated>1301088888</lastupdated>
+
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277832</id>
+		<Combined_episodenumber>3</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Hassle in the Castle</EpisodeName>
+		<EpisodeNumber>3</EpisodeNumber>
+
+		<FirstAired>1969-09-27</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>The gang gets shipwrecked on an island that happens to be an
+			old lair for a pirate. They find a map, but there is a warning
+			telling them to leave the island. The warning appears justified when
+			a ghost called 'The Phantom' is after them.</Overview>
+		<ProductionCode>6903</ProductionCode>
+		<Rating>6.8</Rating>
+
+		<RatingCount>4</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277832.jpg</filename>
+		<lastupdated>1301088908</lastupdated>
+
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277833</id>
+		<Combined_episodenumber>4</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Mine Your Own Business</EpisodeName>
+		<EpisodeNumber>4</EpisodeNumber>
+
+		<FirstAired>1969-10-04</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>Thanks to Shaggy's slightly flawed map reading skills, the
+			gang finds themselves in an abandoned western town. The owner tells
+			them that guests were scared off by a strange man who came to the
+			town centuries ago and won't leave until he finds the last remains of
+			his gold claim.</Overview>
+		<ProductionCode>6904</ProductionCode>
+		<Rating>7.0</Rating>
+
+		<RatingCount>5</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277833.jpg</filename>
+		<lastupdated>1297248158</lastupdated>
+
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277834</id>
+		<Combined_episodenumber>5</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Decoy for a Dognapper</EpisodeName>
+		<EpisodeNumber>5</EpisodeNumber>
+
+		<FirstAired>1969-10-11</FirstAired>
+		<GuestStars>|Hal Smith|</GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>Scooby-Doo witnesses a dog kidnapping at the park. After
+			hearing about it, the gang decides to use Scooby-Doo as bait to
+			capture the kidnappers.</Overview>
+		<ProductionCode>6905</ProductionCode>
+
+		<Rating>7.3</Rating>
+		<RatingCount>3</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277834.jpg</filename>
+
+		<lastupdated>1301089079</lastupdated>
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277835</id>
+		<Combined_episodenumber>6</Combined_episodenumber>
+
+		<Combined_season>1</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>What the Hex is Going On?</EpisodeName>
+
+		<EpisodeNumber>6</EpisodeNumber>
+		<FirstAired>1969-10-18</FirstAired>
+		<GuestStars>|John Stephenson|</GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>The gang sees a strange man go into a weird mansion. They
+			learn that he is a friend of their Uncle Stewart. Stewart tells them
+			that the ghost of the Kingston Mansion caused him to turn old.
+			Strange things start happening when Sharron and Uncle Stewart vanish.</Overview>
+
+		<ProductionCode>6906</ProductionCode>
+		<Rating>7.0</Rating>
+		<RatingCount>4</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+		<absolute_number></absolute_number>
+
+		<filename>episodes/78260/277835.jpg</filename>
+		<lastupdated>1301089100</lastupdated>
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277836</id>
+
+		<Combined_episodenumber>7</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Never Ape an Ape Man</EpisodeName>
+		<EpisodeNumber>7</EpisodeNumber>
+		<FirstAired>1969-10-25</FirstAired>
+		<GuestStars>|Jean Vander Pyl|John Stephenson|</GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+
+		<Overview>The gang gets volunteered as workers by Daphne's uncle, a
+			director currently filming a movie about a fierce creature called the
+			ape man. Rumor has it that the real ape man is alive. The gang soon
+			learns that it's not just a rumor.</Overview>
+		<ProductionCode>6907</ProductionCode>
+		<Rating>5.0</Rating>
+		<RatingCount>2</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277836.jpg</filename>
+		<lastupdated>1301089131</lastupdated>
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277837</id>
+
+		<Combined_episodenumber>8</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Foul Play in Funland</EpisodeName>
+		<EpisodeNumber>8</EpisodeNumber>
+		<FirstAired>1969-11-01</FirstAired>
+		<GuestStars>|Jean Vander Pyl|</GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+
+		<Overview>The gang gets excited about the opening of an amusement
+			park. But when they see the rides on before it opens, they start to
+			get suspicious.</Overview>
+		<ProductionCode>6908</ProductionCode>
+		<Rating>6.8</Rating>
+		<RatingCount>4</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277837.jpg</filename>
+		<lastupdated>1301089153</lastupdated>
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277838</id>
+
+		<Combined_episodenumber>9</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>The Backstage Rage</EpisodeName>
+		<EpisodeNumber>9</EpisodeNumber>
+		<FirstAired>1969-11-08</FirstAired>
+		<GuestStars>|Vic Perrin|</GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+
+		<Overview>While coming home from pizza, Shaggy finds a violin case
+			full of money. While calling the gang Scooby-Doo goes to help an
+			injured poodle and the money is taken. The gang suspects that the
+			money was fake.</Overview>
+		<ProductionCode>6909</ProductionCode>
+		<Rating>4.5</Rating>
+		<RatingCount>2</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277838.jpg</filename>
+		<lastupdated>1301089175</lastupdated>
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277839</id>
+
+		<Combined_episodenumber>10</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Bedlam in the Big Top</EpisodeName>
+		<EpisodeNumber>10</EpisodeNumber>
+		<FirstAired>1969-11-15</FirstAired>
+		<GuestStars>|John Stephenson|</GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+
+		<Overview>The gang rescues two circus people who tell them that they
+			have left a circus because it's bad luck. The ring master tells them
+			of a mysterious person called 'The Ghost Clown' who is responsible
+			for the many strange accidents and incidents.</Overview>
+		<ProductionCode>6910</ProductionCode>
+		<Rating>7.0</Rating>
+		<RatingCount>3</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277839.jpg</filename>
+		<lastupdated>1301089196</lastupdated>
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277840</id>
+
+		<Combined_episodenumber>11</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>A Gaggle of Galloping Ghosts</EpisodeName>
+		<EpisodeNumber>11</EpisodeNumber>
+		<FirstAired>1969-11-22</FirstAired>
+		<GuestStars>|John Stephenson|June Foray|</GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+
+		<Overview>The gang, on their way to the Frankenstein castle, visits a
+			gypsy who warns them not to go. They ignore her warning and go
+			anyway. The trouble begins when Daphne is taken hostage and the gang
+			finds themselves in the clutches of a trio of monsters.</Overview>
+		<ProductionCode>6911</ProductionCode>
+		<Rating>8.3</Rating>
+		<RatingCount>3</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277840.jpg</filename>
+		<lastupdated>1301089216</lastupdated>
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277841</id>
+
+		<Combined_episodenumber>12</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Scooby-Doo and a Mummy Too!</EpisodeName>
+		<EpisodeNumber>12</EpisodeNumber>
+		<FirstAired>1969-11-29</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+
+		<Overview>The gang, at the college museum, gets the lead on a dead
+			Egyptian ruler named Inca. According to an ancient superstition, if
+			he were ever removed from his crypt, he would turn the people who
+			moved him to stone. Shaggy finds a rare coin that the Professor is
+			trying to study. The trouble begins when Shaggy accidentally takes
+			the coin and the mummy is loose looking for it.</Overview>
+		<ProductionCode>6912</ProductionCode>
+		<Rating>7.0</Rating>
+		<RatingCount>2</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277841.jpg</filename>
+		<lastupdated>1301089238</lastupdated>
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277842</id>
+
+		<Combined_episodenumber>13</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Which Witch is Which?</EpisodeName>
+		<EpisodeNumber>13</EpisodeNumber>
+		<FirstAired>1969-12-06</FirstAired>
+		<GuestStars>|John Stephenson|</GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+
+		<Overview>The gang gets lost while driving to a concert. They ask a
+			man to give them directions only to learn that he's a zombie. They
+			also learn of a nearby witch who is responsible for the zombie's
+			resurrection.</Overview>
+		<ProductionCode>6913</ProductionCode>
+		<Rating>7.0</Rating>
+		<RatingCount>3</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277842.jpg</filename>
+		<lastupdated>1301089261</lastupdated>
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277844</id>
+
+		<Combined_episodenumber>14</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Spooky Space Kook</EpisodeName>
+		<EpisodeNumber>14</EpisodeNumber>
+		<FirstAired>1969-12-20</FirstAired>
+		<GuestStars>|Hal Smith|</GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+
+		<Overview>The gang is low on gas so they go to a farmhouse. The farmer
+			tells them he's been harassed by reporters ever since an alien showed
+			up. It's not just any alien, but a ghostly alien.</Overview>
+		<ProductionCode>6915</ProductionCode>
+		<Rating>7.7</Rating>
+		<RatingCount>3</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277844.jpg</filename>
+		<lastupdated>1301089291</lastupdated>
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277843</id>
+
+		<Combined_episodenumber>15</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Go Away Ghost Ship</EpisodeName>
+		<EpisodeNumber>15</EpisodeNumber>
+		<FirstAired>1969-12-13</FirstAired>
+		<GuestStars>|John Stephenson|</GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+
+		<Overview>The gang learns that the ghost of long dead pirate has
+			returned and is continuing on where he left off centuries ago.</Overview>
+		<ProductionCode>6914</ProductionCode>
+		<Rating>7.5</Rating>
+		<RatingCount>2</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277843.jpg</filename>
+		<lastupdated>1301089317</lastupdated>
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277845</id>
+
+		<Combined_episodenumber>16</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>A Night of Fright is No Delight</EpisodeName>
+		<EpisodeNumber>16</EpisodeNumber>
+		<FirstAired>1970-01-10</FirstAired>
+		<GuestStars>|Hal Smith|</GuestStars>
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+
+		<Overview>Scooby-Doo inherits a mansion because he saved the Colonel
+			from drowning years ago. He and some other heirs will each get a
+			fortune but there's a warning that the house is haunted. The warning
+			appears justified when someone (or something) comes to frighten the
+			heirs away.</Overview>
+		<ProductionCode>6916</ProductionCode>
+		<Rating>8.0</Rating>
+		<RatingCount>1</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277845.jpg</filename>
+		<lastupdated>1301089334</lastupdated>
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+	<Episode>
+		<id>277846</id>
+
+		<Combined_episodenumber>17</Combined_episodenumber>
+		<Combined_season>1</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+		<Director>|Joseph Barbera|William Hanna|Charles A. Nichols|</Director>
+
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>That's Snow Ghost</EpisodeName>
+		<EpisodeNumber>17</EpisodeNumber>
+		<FirstAired>1970-01-17</FirstAired>
+		<GuestStars>|Vic Perrin|</GuestStars>
+		<IMDB_ID>tt0907045</IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>The gang is vacationing in the Himalayas. They go to a
+			winter lodge where the owner tells them about the ghost of a Yeti
+			that is out to get revenge on the man that caused his death and will
+			turn anyone into ghosts.</Overview>
+		<ProductionCode>6917</ProductionCode>
+		<Rating>5.0</Rating>
+		<RatingCount>2</RatingCount>
+		<SeasonNumber>1</SeasonNumber>
+
+		<Writer>|Ken Spears|Joe Ruby|Bill Lutz|Howard Swift|</Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277846.jpg</filename>
+		<lastupdated>1301089355</lastupdated>
+		<seasonid>14622</seasonid>
+		<seriesid>78260</seriesid>
+
+	</Episode>
+	<Episode>
+		<id>277847</id>
+		<Combined_episodenumber>1</Combined_episodenumber>
+		<Combined_season>2</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+
+		<DVD_season></DVD_season>
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Nowhere to Hyde</EpisodeName>
+		<EpisodeNumber>1</EpisodeNumber>
+		<FirstAired>1970-09-12</FirstAired>
+		<GuestStars>|John Stephenson|</GuestStars>
+
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>While driving back from the movies, the gang finds a strange
+			man in the back of the Mystery Machine. They recognize it as the
+			ghost of Mr. Hyde who is a jewel thief. They follow him to a house
+			where they meet a descendent of Dr. Jekyll who claims to be the ghost
+			of Hyde, but is he telling the truth?</Overview>
+		<ProductionCode>7001</ProductionCode>
+		<Rating>7.0</Rating>
+		<RatingCount>4</RatingCount>
+
+		<SeasonNumber>2</SeasonNumber>
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277847.jpg</filename>
+		<lastupdated>1297248729</lastupdated>
+		<seasonid>14623</seasonid>
+		<seriesid>78260</seriesid>
+
+	</Episode>
+	<Episode>
+		<id>277848</id>
+		<Combined_episodenumber>2</Combined_episodenumber>
+		<Combined_season>2</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+
+		<DVD_season></DVD_season>
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Mystery Mask Mix-Up</EpisodeName>
+		<EpisodeNumber>2</EpisodeNumber>
+		<FirstAired>1970-09-19</FirstAired>
+		<GuestStars>|Vic Perrin|</GuestStars>
+
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>While in China, the gang pursues an ancient Chinese mask at
+			an antique show. Soon strange things start happening. The gang is
+			pursued by some horrible ghosts. They learn that the ghost of long
+			dead emperor has returned to claim what is rightfully his. Things
+			take a serious turn when Daphne is taken hostage.</Overview>
+		<ProductionCode>7002</ProductionCode>
+		<Rating>5.3</Rating>
+		<RatingCount>3</RatingCount>
+
+		<SeasonNumber>2</SeasonNumber>
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277848.jpg</filename>
+		<lastupdated>1297248756</lastupdated>
+		<seasonid>14623</seasonid>
+		<seriesid>78260</seriesid>
+
+	</Episode>
+	<Episode>
+		<id>277849</id>
+		<Combined_episodenumber>3</Combined_episodenumber>
+		<Combined_season>2</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+
+		<DVD_season></DVD_season>
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Jeepers It's the Creeper</EpisodeName>
+		<EpisodeNumber>3</EpisodeNumber>
+		<FirstAired>1970-09-26</FirstAired>
+		<GuestStars>|Don Messick|John Stephenson|Frank Welker|</GuestStars>
+
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>While driving to the barnyard dance, the gang finds an
+			injured bank guard. He gives them a blank paper and says something
+			about a flame. The gang learns of a local bank robber called the
+			Creeper. Things take a serious turn when the Creeper tries to steal
+			the blank paper.</Overview>
+		<ProductionCode>7003</ProductionCode>
+		<Rating>7.5</Rating>
+		<RatingCount>2</RatingCount>
+
+		<SeasonNumber>2</SeasonNumber>
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277849.jpg</filename>
+		<lastupdated>1297248788</lastupdated>
+		<seasonid>14623</seasonid>
+		<seriesid>78260</seriesid>
+
+	</Episode>
+	<Episode>
+		<id>277850</id>
+		<Combined_episodenumber>4</Combined_episodenumber>
+		<Combined_season>2</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+
+		<DVD_season></DVD_season>
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Scooby's Night With a Frozen Fright</EpisodeName>
+		<EpisodeNumber>4</EpisodeNumber>
+		<FirstAired>1970-10-03</FirstAired>
+		<GuestStars>|John Stephenson|Don Messick|</GuestStars>
+
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>While fishing, the gang encounters a frozen caveman. The
+			gang takes it Ocean Land to keep it in the cooler but someone melts
+			the ice and now the caveman is on the loose.</Overview>
+		<ProductionCode>7004</ProductionCode>
+		<Rating>6.7</Rating>
+		<RatingCount>3</RatingCount>
+
+		<SeasonNumber>2</SeasonNumber>
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277850.jpg</filename>
+		<lastupdated>1297248828</lastupdated>
+		<seasonid>14623</seasonid>
+		<seriesid>78260</seriesid>
+
+	</Episode>
+	<Episode>
+		<id>277851</id>
+		<Combined_episodenumber>5</Combined_episodenumber>
+		<Combined_season>2</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+
+		<DVD_season></DVD_season>
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>The Haunted House Hang-Up</EpisodeName>
+		<EpisodeNumber>5</EpisodeNumber>
+		<FirstAired>1970-10-10</FirstAired>
+		<GuestStars></GuestStars>
+
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>While driving to a concert, the gang gets lost. A strange
+			man with a lantern tells them to avoid taking a right fork in the
+			road. That would take them to a mansion that's rumored to be haunted
+			by a headless man.</Overview>
+		<ProductionCode>7005</ProductionCode>
+		<Rating>7.3</Rating>
+		<RatingCount>4</RatingCount>
+
+		<SeasonNumber>2</SeasonNumber>
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277851.jpg</filename>
+		<lastupdated>1297248860</lastupdated>
+		<seasonid>14623</seasonid>
+		<seriesid>78260</seriesid>
+
+	</Episode>
+	<Episode>
+		<id>277852</id>
+		<Combined_episodenumber>6</Combined_episodenumber>
+		<Combined_season>2</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+
+		<DVD_season></DVD_season>
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>A Tiki Scare is No Fair</EpisodeName>
+		<EpisodeNumber>6</EpisodeNumber>
+		<FirstAired>1970-10-17</FirstAired>
+		<GuestStars>|John Stephenson|</GuestStars>
+
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>Scooby and Shaggy are having a fun time in Hawaii with their
+			guide John Simms. Things take a serious turn when a voodoo witch
+			doctor shows up and Simms mysteriously vanishes.</Overview>
+		<ProductionCode>7006</ProductionCode>
+		<Rating>7.3</Rating>
+		<RatingCount>4</RatingCount>
+
+		<SeasonNumber>2</SeasonNumber>
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277852.jpg</filename>
+		<lastupdated>1297248892</lastupdated>
+		<seasonid>14623</seasonid>
+		<seriesid>78260</seriesid>
+
+	</Episode>
+	<Episode>
+		<id>277853</id>
+		<Combined_episodenumber>7</Combined_episodenumber>
+		<Combined_season>2</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+
+		<DVD_season></DVD_season>
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Who's Afraid of the Big Bad Werewolf?</EpisodeName>
+		<EpisodeNumber>7</EpisodeNumber>
+		<FirstAired>1970-10-24</FirstAired>
+		<GuestStars>|Don Messick|Frank Welker|</GuestStars>
+
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>While camping out in the woods, the gang comes across a
+			tombstone of a man that was a werewolf. Are they pursuing the ghost
+			of a werewolf?</Overview>
+		<ProductionCode>7007</ProductionCode>
+		<Rating>6.8</Rating>
+		<RatingCount>4</RatingCount>
+
+		<SeasonNumber>2</SeasonNumber>
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277853.jpg</filename>
+		<lastupdated>1297248921</lastupdated>
+		<seasonid>14623</seasonid>
+		<seriesid>78260</seriesid>
+
+	</Episode>
+	<Episode>
+		<id>277854</id>
+		<Combined_episodenumber>8</Combined_episodenumber>
+		<Combined_season>2</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+
+		<DVD_season></DVD_season>
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Don't Fool With a Phantom</EpisodeName>
+		<EpisodeNumber>8</EpisodeNumber>
+		<FirstAired>1970-10-31</FirstAired>
+		<GuestStars></GuestStars>
+
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>The gang is having fun at a TV station with their friend
+			Johnny but then a wax creature shows up. Johnny tells them that years
+			ago a wax maker named Grisby used to work for the station. He was
+			fired and threatened to bring one of his wax creations to life to
+			seek revenge on the people who fired him.</Overview>
+		<ProductionCode>7008</ProductionCode>
+		<Rating>7.0</Rating>
+		<RatingCount>3</RatingCount>
+
+		<SeasonNumber>2</SeasonNumber>
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277854.jpg</filename>
+		<lastupdated>1297248946</lastupdated>
+		<seasonid>14623</seasonid>
+		<seriesid>78260</seriesid>
+
+	</Episode>
+	<Episode>
+		<id>337890</id>
+		<Combined_episodenumber>1</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+
+		<DVD_season></DVD_season>
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Watch Out! The Willawaw!</EpisodeName>
+		<EpisodeNumber>1</EpisodeNumber>
+		<FirstAired>1978-09-09</FirstAired>
+		<GuestStars></GuestStars>
+
+		<IMDB_ID></IMDB_ID>
+		<Language>en</Language>
+		<Overview>An owl hoots Scooby's name, releasing the legend of the
+			Willawaw.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating>7.0</Rating>
+		<RatingCount>2</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/337890.jpg</filename>
+		<lastupdated>1194292752</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+
+	<Episode>
+		<id>337891</id>
+		<Combined_episodenumber>2</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Creepy Tangle in the Bermuda Triangle</EpisodeName>
+		<EpisodeNumber>2</EpisodeNumber>
+		<FirstAired>1978-09-23</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>A hurricane strands the gang on the island base of a UFO.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating>7.7</Rating>
+		<RatingCount>3</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/337891.jpg</filename>
+		<lastupdated>1194292844</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+
+	<Episode>
+		<id>277855</id>
+		<Combined_episodenumber>3</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>A Scary Night With a Snow Beast Fright</EpisodeName>
+		<EpisodeNumber>3</EpisodeNumber>
+		<FirstAired>1978-10-14</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>A fur-covered dinosaur terrorizes the North Pole.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating>7.0</Rating>
+		<RatingCount>3</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277855.jpg</filename>
+		<lastupdated>1194292914</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+
+	<Episode>
+		<id>277856</id>
+		<Combined_episodenumber>4</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>To Switch a Witch</EpisodeName>
+		<EpisodeNumber>4</EpisodeNumber>
+		<FirstAired>1978-09-16</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>A witch seeks revenge 200 years after being burned at the
+			stake.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating>8.5</Rating>
+		<RatingCount>2</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277856.jpg</filename>
+		<lastupdated>1194292971</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+
+	<Episode>
+		<id>277857</id>
+		<Combined_episodenumber>5</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>The Tar Monster</EpisodeName>
+		<EpisodeNumber>5</EpisodeNumber>
+		<FirstAired>1978-10-21</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>A tar monster haunts the lost city of Byzantius, Turkey.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating>5.0</Rating>
+		<RatingCount>1</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277857.jpg</filename>
+		<lastupdated>1194293077</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+
+	<Episode>
+		<id>277858</id>
+		<Combined_episodenumber>6</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>A Highland Fling With a Monstrous Thing</EpisodeName>
+		<EpisodeNumber>6</EpisodeNumber>
+		<FirstAired>1978-10-07</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>The Loch Ness monster terrorizes Velma's friend, Aggie
+			MacDuff.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating>7.0</Rating>
+		<RatingCount>1</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277858.jpg</filename>
+		<lastupdated>1194293164</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+
+	<Episode>
+		<id>341126</id>
+		<Combined_episodenumber>7</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>The Creepy Case Of Old Iron Face</EpisodeName>
+		<EpisodeNumber>7</EpisodeNumber>
+		<FirstAired>1978-10-21</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>The kids visit Skull Island, where there's an old prison
+			still inhabited by Iron Face, a mean prisoner who had a iron mask
+			welded to his face. With him and his torpedo-like sharks, will the
+			kids last long?</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating>2.0</Rating>
+		<RatingCount>1</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/341126.jpg</filename>
+		<lastupdated>1194293516</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+
+	<Episode>
+		<id>277859</id>
+		<Combined_episodenumber>8</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Jeepers, It's the Jaguro!</EpisodeName>
+		<EpisodeNumber>8</EpisodeNumber>
+		<FirstAired>1978-10-28</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>After their plane crashes in the Amazon jungle, Scooby and
+			the gang face a tigerlike creature.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating>7.0</Rating>
+		<RatingCount>1</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277859.jpg</filename>
+		<lastupdated>1194293593</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+
+	<Episode>
+		<id>277860</id>
+		<Combined_episodenumber>9</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Make a Beeline Away From That Feline</EpisodeName>
+		<EpisodeNumber>9</EpisodeNumber>
+		<FirstAired>1978-11-11</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>Daphne's aunt transforms into a cat creature and robs
+			jewelry stores in her sleep.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating>7.0</Rating>
+		<RatingCount>1</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/277860.jpg</filename>
+		<lastupdated>1194293654</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+
+	<Episode>
+		<id>337892</id>
+		<Combined_episodenumber>10</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Creepy Creature of Vulture's Claw</EpisodeName>
+		<EpisodeNumber>10</EpisodeNumber>
+		<FirstAired>1978-11-04</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>Velma's old professor is being stalked by a humanoid mantis.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating>7.0</Rating>
+		<RatingCount>1</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/337892.jpg</filename>
+		<lastupdated>1194293722</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+
+	<Episode>
+		<id>337893</id>
+		<Combined_episodenumber>11</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>The Diabolical Disc Demon</EpisodeName>
+		<EpisodeNumber>11</EpisodeNumber>
+		<FirstAired>1978-11-18</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>A demon haunts rock 'n' roll star Jimmy Lewis.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating>7.0</Rating>
+		<RatingCount>2</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/337893.jpg</filename>
+		<lastupdated>1194293783</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+
+	<Episode>
+		<id>337894</id>
+		<Combined_episodenumber>12</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Scooby's Chinese Fortune Kooky Caper</EpisodeName>
+		<EpisodeNumber>12</EpisodeNumber>
+		<FirstAired>1978-11-25</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>While in China, the gang encounters the Moon Monster.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating>7.0</Rating>
+		<RatingCount>1</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/337894.jpg</filename>
+		<lastupdated>1194293845</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+
+	<Episode>
+		<id>337895</id>
+		<Combined_episodenumber>13</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>A Menace in Venice</EpisodeName>
+		<EpisodeNumber>13</EpisodeNumber>
+		<FirstAired>1978-12-02</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>A ghostly gondolier wants an Italian's valuable necklace.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating>3.5</Rating>
+		<RatingCount>2</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/337895.jpg</filename>
+		<lastupdated>1194306214</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+
+	<Episode>
+		<id>337896</id>
+		<Combined_episodenumber>14</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>Don't Go Near the Fortress of Fear</EpisodeName>
+		<EpisodeNumber>14</EpisodeNumber>
+		<FirstAired>1978-12-09</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>A ghost is the commander of an ancient Puerto Rican
+			fortress.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating>7.0</Rating>
+		<RatingCount>2</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/337896.jpg</filename>
+		<lastupdated>1194306281</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+
+	<Episode>
+		<id>337897</id>
+		<Combined_episodenumber>15</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>The Warlock of Wimbledon</EpisodeName>
+		<EpisodeNumber>15</EpisodeNumber>
+		<FirstAired>1978-12-23</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>A warlock named Athnos prevents a tennis star from playing at Wimbledon.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating>10.0</Rating>
+		<RatingCount>1</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+
+		<Writer></Writer>
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/337897.jpg</filename>
+		<lastupdated>1194306374</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+
+	<Episode>
+		<id>337898</id>
+		<Combined_episodenumber>16</Combined_episodenumber>
+		<Combined_season>3</Combined_season>
+		<DVD_chapter></DVD_chapter>
+		<DVD_discid></DVD_discid>
+		<DVD_episodenumber></DVD_episodenumber>
+		<DVD_season></DVD_season>
+
+		<Director></Director>
+		<EpImgFlag></EpImgFlag>
+		<EpisodeName>The Beast Is Awake in Bottomless Lake</EpisodeName>
+		<EpisodeNumber>16</EpisodeNumber>
+		<FirstAired>1978-12-16</FirstAired>
+		<GuestStars></GuestStars>
+		<IMDB_ID></IMDB_ID>
+
+		<Language>en</Language>
+		<Overview>A mysterious beast scares off the inhabitants of the village of Bottomless Lake.</Overview>
+		<ProductionCode></ProductionCode>
+		<Rating></Rating>
+		<RatingCount>0</RatingCount>
+		<SeasonNumber>3</SeasonNumber>
+		<Writer></Writer>
+
+		<absolute_number></absolute_number>
+		<filename>episodes/78260/337898.jpg</filename>
+		<lastupdated>1194306463</lastupdated>
+		<seasonid>14624</seasonid>
+		<seriesid>78260</seriesid>
+	</Episode>
+</Data>

@@ -1,0 +1,263 @@
+==== 7/12a: $37.86=$19.43 from Alter Reality Games. $18.43 from ShuffleandCut.
+1 Ant Queen
+1 Beacon of Creation
+1 Emeria Angel
+1 Gauntlet of Power
+1 Gelatinous Genesis
+1 Jinxed Idol
+1 Kamahl, Fist of Krosa
+1 Mind's Eye
+1 Night Soil
+1 Orochi Hatchery
+1 Parallel Evolution
+1 Sawtooth Loon
+1 Seed the Land
+1 Silver Erne
+1 Snake Pit
+1 Springjack Pasture
+1 Veil of Birds
+1 Wellwisher
+1 Wren's Run Packmaster
+3 Howling Mine
+2 Heartbeat of Spring
+3 Oran-Rief, the Vastwood
+
+Total Time: 1m, 22s, 985ms; (82985ms)
+[
+Orders:
+=======
+TOTAL: 36.80
+COUNT: 27
+
+Cape Fear Games Order:
+  Number of Cards: 7
+  Subtotal: $8.14
+  Shipping: $1.83
+  --------
+     Total: $9.97
+  ---
+  Ant Queen
+  1    StandardSupplyRecord@c2d2e63c(cardName: Ant Queen; condition: Unplayed; cost: 0.25; quantity: 12; set: Magic 2010 (M10); vendor: Cape Fear Games)
+  Emeria Angel
+  1    StandardSupplyRecord@a4ce3c9f(cardName: Emeria Angel; condition: Unplayed; cost: 0.79; quantity: 1; set: Zendikar; vendor: Cape Fear Games)
+  Jinxed Idol
+  1    StandardSupplyRecord@c037081c(cardName: Jinxed Idol; condition: Unplayed; cost: 0.40; quantity: 26; set: Magic 2011 (M11); vendor: Cape Fear Games)
+  Kamahl, Fist of Krosa
+  1    StandardSupplyRecord@59fe889e(cardName: Kamahl, Fist of Krosa; condition: Unplayed; cost: 2.95; quantity: 4; set: Onslaught; vendor: Cape Fear Games)
+  Oran-Rief, the Vastwood
+  3    StandardSupplyRecord@2b164fd2(cardName: Oran-Rief, the Vastwood; condition: Unplayed; cost: 1.25; quantity: 5; set: Zendikar; vendor: Cape Fear Games)
+===
+
+CoreTCG Order:
+  Number of Cards: 14
+  Subtotal: $11.80
+  Shipping: $ 2.99
+  --------
+     Total: $14.79
+  ---
+  Beacon of Creation
+  1    StandardSupplyRecord@a22845d4(cardName: Beacon of Creation; condition: Unplayed; cost: 1.99; quantity: 5; set: Fifth Dawn; vendor: CoreTCG)
+  Gelatinous Genesis
+  1    StandardSupplyRecord@7e392e1a(cardName: Gelatinous Genesis; condition: Unplayed; cost: 0.10; quantity: 14; set: Rise of the Eldrazi; vendor: CoreTCG)
+  Howling Mine
+  2    StandardSupplyRecord@392efa78(cardName: Howling Mine; condition: Unplayed; cost: 1.99; quantity: 2; set: Magic 2010 (M10); vendor: CoreTCG)
+  Mind's Eye
+  1    StandardSupplyRecord@76d6d0cc(cardName: Mind's Eye; condition: Unplayed; cost: 2.75; quantity: 5; set: Mirrodin; vendor: CoreTCG)
+  Night Soil
+  1    StandardSupplyRecord@53a7c858(cardName: Night Soil; condition: Unplayed; cost: 0.09; quantity: 12; set: Fallen Empires; vendor: CoreTCG)
+  Orochi Hatchery
+  1    StandardSupplyRecord@8a925b66(cardName: Orochi Hatchery; condition: Unplayed; cost: 0.33; quantity: 5; set: Champions of Kamigawa; vendor: CoreTCG)
+  Parallel Evolution
+  1    StandardSupplyRecord@74fd6f80(cardName: Parallel Evolution; condition: Unplayed; cost: 1.38; quantity: 2; set: Torment; vendor: CoreTCG)
+  Sawtooth Loon
+  1    StandardSupplyRecord@a63c4e98(cardName: Sawtooth Loon; condition: Unplayed; cost: 0.10; quantity: 12; set: Planeshift; vendor: CoreTCG)
+  Seed the Land
+  1    StandardSupplyRecord@535479ea(cardName: Seed the Land; condition: Unplayed; cost: 0.36; quantity: 6; set: Saviors of Kamigawa; vendor: CoreTCG)
+  Silver Erne
+  1    StandardSupplyRecord@9b002ea1(cardName: Silver Erne; condition: Unplayed; cost: 0.09; quantity: 12; set: Ice Age; vendor: CoreTCG)
+  Snake Pit
+  1    StandardSupplyRecord@e3c08a7e(cardName: Snake Pit; condition: Unplayed; cost: 0.15; quantity: 4; set: Mercadian Masques; vendor: CoreTCG)
+  Springjack Pasture
+  1    StandardSupplyRecord@e00f1526(cardName: Springjack Pasture; condition: Unplayed; cost: 0.40; quantity: 1; set: Eventide; vendor: CoreTCG)
+  Veil of Birds
+  1    StandardSupplyRecord@80c75998(cardName: Veil of Birds; condition: Unplayed; cost: 0.08; quantity: 24; set: Urza's Saga; vendor: CoreTCG)
+===
+
+adventuresON Order:
+  Number of Cards: 6
+  Subtotal: $11.44
+  Shipping: $ 0.60
+  --------
+     Total: $12.04
+  ---
+  Gauntlet of Power
+  1    StandardSupplyRecord@5ec19def(cardName: Gauntlet of Power; condition: Unplayed; cost: 3.49; quantity: 3; set: Time Spiral; vendor: adventuresON)
+  Heartbeat of Spring
+  2    StandardSupplyRecord@247bd668(cardName: Heartbeat of Spring; condition: Unplayed; cost: 0.99; quantity: 23; set: Champions of Kamigawa; vendor: adventuresON)
+  Howling Mine
+  1    StandardSupplyRecord@73786700(cardName: Howling Mine; condition: Unplayed; cost: 2.49; quantity: 12; set: Magic 2010 (M10); vendor: adventuresON)
+  Wellwisher
+  1    StandardSupplyRecord@7756bf58(cardName: Wellwisher; condition: Unplayed; cost: 0.99; quantity: 21; set: Onslaught; vendor: adventuresON)
+  Wren's Run Packmaster
+  1    StandardSupplyRecord@aeff489b(cardName: Wren's Run Packmaster; condition: Unplayed; cost: 2.49; quantity: 2; set: Lorwyn; vendor: adventuresON)
+===
+]
+
+Total Time: 2m, 37s, 547ms; (157547ms)
+[
+Orders:
+=======
+TOTAL: 36.80
+COUNT: 27
+
+Cape Fear Games Order:
+  Number of Cards: 7
+  Subtotal: $8.14
+  Shipping: $1.83
+  --------
+     Total: $9.97
+  ---
+  Ant Queen
+  1    StandardSupplyRecord@c2d2e63c(cardName: Ant Queen; condition: Unplayed; cost: 0.25; quantity: 12; set: Magic 2010 (M10); vendor: Cape Fear Games)
+  Emeria Angel
+  1    StandardSupplyRecord@a4ce3c9f(cardName: Emeria Angel; condition: Unplayed; cost: 0.79; quantity: 1; set: Zendikar; vendor: Cape Fear Games)
+  Jinxed Idol
+  1    StandardSupplyRecord@c036c84b(cardName: Jinxed Idol; condition: Unplayed; cost: 0.40; quantity: 9; set: Magic 2011 (M11); vendor: Cape Fear Games)
+  Kamahl, Fist of Krosa
+  1    StandardSupplyRecord@59fe889e(cardName: Kamahl, Fist of Krosa; condition: Unplayed; cost: 2.95; quantity: 4; set: Onslaught; vendor: Cape Fear Games)
+  Oran-Rief, the Vastwood
+  3    StandardSupplyRecord@2b164fd2(cardName: Oran-Rief, the Vastwood; condition: Unplayed; cost: 1.25; quantity: 5; set: Zendikar; vendor: Cape Fear Games)
+===
+
+CoreTCG Order:
+  Number of Cards: 14
+  Subtotal: $11.80
+  Shipping: $ 2.99
+  --------
+     Total: $14.79
+  ---
+  Beacon of Creation
+  1    StandardSupplyRecord@a22845d4(cardName: Beacon of Creation; condition: Unplayed; cost: 1.99; quantity: 5; set: Fifth Dawn; vendor: CoreTCG)
+  Gelatinous Genesis
+  1    StandardSupplyRecord@7e392e1a(cardName: Gelatinous Genesis; condition: Unplayed; cost: 0.10; quantity: 14; set: Rise of the Eldrazi; vendor: CoreTCG)
+  Howling Mine
+  2    StandardSupplyRecord@392efa78(cardName: Howling Mine; condition: Unplayed; cost: 1.99; quantity: 2; set: Magic 2010 (M10); vendor: CoreTCG)
+  Mind's Eye
+  1    StandardSupplyRecord@76d6d0cc(cardName: Mind's Eye; condition: Unplayed; cost: 2.75; quantity: 5; set: Mirrodin; vendor: CoreTCG)
+  Night Soil
+  1    StandardSupplyRecord@53a7c858(cardName: Night Soil; condition: Unplayed; cost: 0.09; quantity: 12; set: Fallen Empires; vendor: CoreTCG)
+  Orochi Hatchery
+  1    StandardSupplyRecord@8a925b66(cardName: Orochi Hatchery; condition: Unplayed; cost: 0.33; quantity: 5; set: Champions of Kamigawa; vendor: CoreTCG)
+  Parallel Evolution
+  1    StandardSupplyRecord@74fd6f80(cardName: Parallel Evolution; condition: Unplayed; cost: 1.38; quantity: 2; set: Torment; vendor: CoreTCG)
+  Sawtooth Loon
+  1    StandardSupplyRecord@a63c4e98(cardName: Sawtooth Loon; condition: Unplayed; cost: 0.10; quantity: 12; set: Planeshift; vendor: CoreTCG)
+  Seed the Land
+  1    StandardSupplyRecord@535479ea(cardName: Seed the Land; condition: Unplayed; cost: 0.36; quantity: 6; set: Saviors of Kamigawa; vendor: CoreTCG)
+  Silver Erne
+  1    StandardSupplyRecord@9b002ea1(cardName: Silver Erne; condition: Unplayed; cost: 0.09; quantity: 12; set: Ice Age; vendor: CoreTCG)
+  Snake Pit
+  1    StandardSupplyRecord@e3c08a7e(cardName: Snake Pit; condition: Unplayed; cost: 0.15; quantity: 4; set: Mercadian Masques; vendor: CoreTCG)
+  Springjack Pasture
+  1    StandardSupplyRecord@e00f1526(cardName: Springjack Pasture; condition: Unplayed; cost: 0.40; quantity: 1; set: Eventide; vendor: CoreTCG)
+  Veil of Birds
+  1    StandardSupplyRecord@80c75998(cardName: Veil of Birds; condition: Unplayed; cost: 0.08; quantity: 24; set: Urza's Saga; vendor: CoreTCG)
+===
+
+adventuresON Order:
+  Number of Cards: 6
+  Subtotal: $11.44
+  Shipping: $ 0.60
+  --------
+     Total: $12.04
+  ---
+  Gauntlet of Power
+  1    StandardSupplyRecord@5d2c7f93(cardName: Gauntlet of Power; condition: Unplayed; cost: 3.49; quantity: 3; set: Time Spiral; vendor: adventuresON)
+  Heartbeat of Spring
+  2    StandardSupplyRecord@22e6b80c(cardName: Heartbeat of Spring; condition: Unplayed; cost: 0.99; quantity: 23; set: Champions of Kamigawa; vendor: adventuresON)
+  Howling Mine
+  1    StandardSupplyRecord@71e348a4(cardName: Howling Mine; condition: Unplayed; cost: 2.49; quantity: 12; set: Magic 2010 (M10); vendor: adventuresON)
+  Wellwisher
+  1    StandardSupplyRecord@75c1a0fc(cardName: Wellwisher; condition: Unplayed; cost: 0.99; quantity: 21; set: Onslaught; vendor: adventuresON)
+  Wren's Run Packmaster
+  1    StandardSupplyRecord@ad6a2a3f(cardName: Wren's Run Packmaster; condition: Unplayed; cost: 2.49; quantity: 2; set: Lorwyn; vendor: adventuresON)
+===
+, 
+Orders:
+=======
+TOTAL: 36.80
+COUNT: 27
+
+Cape Fear Games Order:
+  Number of Cards: 7
+  Subtotal: $8.14
+  Shipping: $1.83
+  --------
+     Total: $9.97
+  ---
+  Ant Queen
+  1    StandardSupplyRecord@c2d2e63c(cardName: Ant Queen; condition: Unplayed; cost: 0.25; quantity: 12; set: Magic 2010 (M10); vendor: Cape Fear Games)
+  Emeria Angel
+  1    StandardSupplyRecord@a4ce3c9f(cardName: Emeria Angel; condition: Unplayed; cost: 0.79; quantity: 1; set: Zendikar; vendor: Cape Fear Games)
+  Jinxed Idol
+  1    StandardSupplyRecord@c036c84b(cardName: Jinxed Idol; condition: Unplayed; cost: 0.40; quantity: 9; set: Magic 2011 (M11); vendor: Cape Fear Games)
+  Kamahl, Fist of Krosa
+  1    StandardSupplyRecord@59fe889e(cardName: Kamahl, Fist of Krosa; condition: Unplayed; cost: 2.95; quantity: 4; set: Onslaught; vendor: Cape Fear Games)
+  Oran-Rief, the Vastwood
+  3    StandardSupplyRecord@2b164fd2(cardName: Oran-Rief, the Vastwood; condition: Unplayed; cost: 1.25; quantity: 5; set: Zendikar; vendor: Cape Fear Games)
+===
+
+CoreTCG Order:
+  Number of Cards: 16
+  Subtotal: $13.78
+  Shipping: $ 2.99
+  --------
+     Total: $16.77
+  ---
+  Beacon of Creation
+  1    StandardSupplyRecord@a22845d4(cardName: Beacon of Creation; condition: Unplayed; cost: 1.99; quantity: 5; set: Fifth Dawn; vendor: CoreTCG)
+  Gelatinous Genesis
+  1    StandardSupplyRecord@7e392e1a(cardName: Gelatinous Genesis; condition: Unplayed; cost: 0.10; quantity: 14; set: Rise of the Eldrazi; vendor: CoreTCG)
+  Heartbeat of Spring
+  2    StandardSupplyRecord@ea490666(cardName: Heartbeat of Spring; condition: Unplayed; cost: 0.99; quantity: 5; set: Champions of Kamigawa; vendor: CoreTCG)
+  Howling Mine
+  2    StandardSupplyRecord@392efa78(cardName: Howling Mine; condition: Unplayed; cost: 1.99; quantity: 2; set: Magic 2010 (M10); vendor: CoreTCG)
+  Mind's Eye
+  1    StandardSupplyRecord@76d6d0cc(cardName: Mind's Eye; condition: Unplayed; cost: 2.75; quantity: 5; set: Mirrodin; vendor: CoreTCG)
+  Night Soil
+  1    StandardSupplyRecord@53a7c858(cardName: Night Soil; condition: Unplayed; cost: 0.09; quantity: 12; set: Fallen Empires; vendor: CoreTCG)
+  Orochi Hatchery
+  1    StandardSupplyRecord@8a925b66(cardName: Orochi Hatchery; condition: Unplayed; cost: 0.33; quantity: 5; set: Champions of Kamigawa; vendor: CoreTCG)
+  Parallel Evolution
+  1    StandardSupplyRecord@74fd6f80(cardName: Parallel Evolution; condition: Unplayed; cost: 1.38; quantity: 2; set: Torment; vendor: CoreTCG)
+  Sawtooth Loon
+  1    StandardSupplyRecord@a63c4e98(cardName: Sawtooth Loon; condition: Unplayed; cost: 0.10; quantity: 12; set: Planeshift; vendor: CoreTCG)
+  Seed the Land
+  1    StandardSupplyRecord@535479ea(cardName: Seed the Land; condition: Unplayed; cost: 0.36; quantity: 6; set: Saviors of Kamigawa; vendor: CoreTCG)
+  Silver Erne
+  1    StandardSupplyRecord@9b002ea1(cardName: Silver Erne; condition: Unplayed; cost: 0.09; quantity: 12; set: Ice Age; vendor: CoreTCG)
+  Snake Pit
+  1    StandardSupplyRecord@e3c08a7e(cardName: Snake Pit; condition: Unplayed; cost: 0.15; quantity: 4; set: Mercadian Masques; vendor: CoreTCG)
+  Springjack Pasture
+  1    StandardSupplyRecord@e00f1526(cardName: Springjack Pasture; condition: Unplayed; cost: 0.40; quantity: 1; set: Eventide; vendor: CoreTCG)
+  Veil of Birds
+  1    StandardSupplyRecord@80c75998(cardName: Veil of Birds; condition: Unplayed; cost: 0.08; quantity: 24; set: Urza's Saga; vendor: CoreTCG)
+===
+
+adventuresON Order:
+  Number of Cards: 4
+  Subtotal: $ 9.46
+  Shipping: $ 0.60
+  --------
+     Total: $10.06
+  ---
+  Gauntlet of Power
+  1    StandardSupplyRecord@5d2c7f93(cardName: Gauntlet of Power; condition: Unplayed; cost: 3.49; quantity: 3; set: Time Spiral; vendor: adventuresON)
+  Howling Mine
+  1    StandardSupplyRecord@71e348a4(cardName: Howling Mine; condition: Unplayed; cost: 2.49; quantity: 12; set: Magic 2010 (M10); vendor: adventuresON)
+  Wellwisher
+  1    StandardSupplyRecord@75c1a0fc(cardName: Wellwisher; condition: Unplayed; cost: 0.99; quantity: 21; set: Onslaught; vendor: adventuresON)
+  Wren's Run Packmaster
+  1    StandardSupplyRecord@ad6a2a3f(cardName: Wren's Run Packmaster; condition: Unplayed; cost: 2.49; quantity: 2; set: Lorwyn; vendor: adventuresON)
+===
+]

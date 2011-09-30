@@ -1,0 +1,6 @@
+Lurking Informant
+1(U / B)
+Creature - Human Rogue
+1/2
+(o(u/b) can be paid with either U or B.)
+2, T Look at the top card of target player's library. You may put that card into that player's graveyard.

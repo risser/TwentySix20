@@ -1,0 +1,8 @@
+02	9554	Contracting
+02	9586	Goods and Services
+02	9600	Manufacturing
+02	9620	Goods and Services
+07	9554	Contracting
+07	9587	Goods and Services
+07	9600	Contracting
+07	9620	Goods and Services
