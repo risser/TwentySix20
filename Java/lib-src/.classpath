@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="commons-io-2.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="jaudiotagger-2.0.4-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="junit-4.5-src.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
