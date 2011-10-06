@@ -265,7 +265,7 @@ if (s.indexOf("(") > -1) System.out.println(">>>>>> PArens>>>"+s);
         while (itrSongs.hasNext()) {
             String song = itrSongs.next().toString();
             Map<String,Integer> chartMap = map.get(song);
-            System.out.println("\n"+song);
+            System.out.println("\n"+song+"\nRadioPlay");
             Iterator<String> itrCharts = chartMap.keySet().iterator();
             while (itrCharts.hasNext()) {
                 String chart = itrCharts.next();
