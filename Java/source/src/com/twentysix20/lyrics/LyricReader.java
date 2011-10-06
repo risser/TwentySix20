@@ -10,7 +10,6 @@ import java.util.Map;
 
 import com.twentysix20.lyrics.lookup.AZLyricFactory;
 import com.twentysix20.lyrics.lookup.JustSomeLyricsFactory;
-import com.twentysix20.lyrics.lookup.Lyrics007Factory;
 import com.twentysix20.lyrics.lookup.LyricsManiaFactory;
 import com.twentysix20.lyrics.lookup.LyricsModeFactory;
 import com.twentysix20.lyrics.lookup.LyricsVIPFactory;

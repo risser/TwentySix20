@@ -12,7 +12,7 @@ public class MetroLyricsHandler extends BaseLyricHandler {
 
 	@Override
 	protected void setupParsers() {
-		lyricParser = new OneShotLyricParser("<div id=\"lyrics\">","</div>", true);
+		lyricParser = new OneShotLyricParser("<div id=\"lyrics-body\">","</div>", true);
 		atParser = new ConjoinedArtistTitleParser("<title>"," \\- "," LYRICS</title>");
 	}
 
