@@ -35,4 +35,8 @@ public class MetroLyricsFactory extends BaseLyricHandlerFactory {
 	public String nameOfSite() {
 		return NAME;
 	}
+
+	static public void main (String s[]) {
+		new MetroLyricsFactory(new InternetHtmlLoader()).verify();
+	}
 }
