@@ -15,6 +15,7 @@ public class LyricCleanup {
         lyrix = lyrix.replaceAll("<img.*?>","");
         lyrix = lyrix.replaceAll("</span>","\n");
         lyrix = lyrix.replaceAll("<div.*?</div>","");
+        lyrix = lyrix.replaceAll("<script.*?</script>","");
         lyrix = lyrix.replaceAll("(?i)(\n|^)"+artist+".*?(\n\n|$)", "");
         lyrix = lyrix.replaceAll("\n\n\n","\n\n");
         lyrix = lyrix.replaceAll("\\.\\.\\.\\s*$","");

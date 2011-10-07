@@ -16,4 +16,10 @@ public class TuneWikiHandler extends BaseLyricHandler {
         lyricParser = new OneShotLyricParser("<div class=\"lyrics-text\">", "</div>", true);
 		atParser = new ConjoinedArtistTitleParser("<title>"," LYRICS \\- ","</title>", true);
 	}
+
+	@Override
+	protected void parseData() {
+		pageData = pageData.replaceAll("<div class=\"lyrics-text\".*?>", "<div class=\"lyrics-text\">");
+        super.parseData();
+	}
 }

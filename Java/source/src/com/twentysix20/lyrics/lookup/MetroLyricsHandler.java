@@ -22,6 +22,11 @@ public class MetroLyricsHandler extends BaseLyricHandler {
         	errorMessage = "No lyrics due to licensing restrictions.";
         	return;
         }
+        if (!pageData.contains("lyrics-body")) {
+        	errorMessage = "Incorrect format for page.";
+        	return;
+        }
+
 
         super.parseData();
         
