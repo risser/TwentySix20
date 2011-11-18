@@ -23,31 +23,12 @@ public class SongMeaningsFactory extends BaseLyricHandlerFactory {
 
 	@Override
 	public boolean verify() {
-		verifyWithoutTag();
-		verified = false;
-		verifyWithTag();
-		verified = true;
-		return true;
-	}
-
-	private void verifyWithoutTag() {
-		String verificationURL = "http://www.songmeanings.net/songs/view/3530822107858643696/";
-		String verificationLyricStart = "Now that we are out of juvie";
-		String verificationLyricEnd = "side, side, can't decide";
-		String verificationArtist = "Scissors For Lefty";
-		String verificationTitle = "Mama Your Boys Will Find A Home";
-		verify(verificationURL, verificationLyricStart, verificationLyricEnd, verificationArtist, verificationTitle);
-		System.out.println(" - Without Tags");
-	}
-
-	private void verifyWithTag() {
 		String verificationURL = "http://www.songmeanings.net/songs/view/48917/";
 		String verificationLyricStart = "Move yourself";
 		String verificationLyricEnd = "Just receive it";
 		String verificationArtist = "Yes";
 		String verificationTitle = "Owner Of A Lonely Heart";
-		verify(verificationURL, verificationLyricStart, verificationLyricEnd, verificationArtist, verificationTitle);
-		System.out.println(" - With Tags");
+		return verify(verificationURL, verificationLyricStart, verificationLyricEnd, verificationArtist, verificationTitle);
 	}
 
 	@Override

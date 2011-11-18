@@ -18,6 +18,11 @@ public class LyricsWikiHandler extends BaseLyricHandler {
 
 	@Override
 	protected void parseData() {
+        if (pageData.contains("Album by") && !pageData.contains("This song is performed by")) {
+        	errorMessage = "Found album page, not song page.";
+        	return;
+        }
+
         super.parseData();
 
         if (lyrics.contains("Unfortunately, we are not licensed to display"))

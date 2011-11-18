@@ -8,6 +8,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.net.URL;
 import java.util.HashSet;
+import java.util.Scanner;
 import java.util.Set;
 
 public class FileUtil {
@@ -104,5 +105,23 @@ public class FileUtil {
 			files.addAll(findFilesInSubdirectories(directory, filter));
 
 		return files;
+	}
+
+	static public String scanFile(String filename) throws FileNotFoundException {
+		File xmlFile = new File(filename);
+		if (!xmlFile.exists()) 
+			throw new FileNotFoundException("Can't find file '"+filename+"'.");
+		StringBuilder builder = new StringBuilder((int)xmlFile.length());
+		Scanner scanner = new Scanner(xmlFile, "UTF-8");
+		String lineSeparator = System.getProperty("line.separator");
+		
+		try {
+			while (scanner.hasNextLine())
+				builder.append(scanner.nextLine() + lineSeparator);
+
+			return builder.toString();
+		} finally {
+			scanner.close();
+		}
 	}
 }
