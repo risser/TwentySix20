@@ -4,9 +4,11 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.List;
 
+import com.twentysix20.dlc.model.Artist;
 import com.twentysix20.dlc.rawxml.DlcXmlReader;
 import com.twentysix20.dlc.rawxml.RawSong;
 import com.twentysix20.dlc.rawxml.RawSongContainer;
+import com.twentysix20.dlc.rawxml.RawSongConverter;
 
 public class DLCProcessor {
 
@@ -16,7 +18,7 @@ public class DLCProcessor {
 		DlcXmlReader reader = new DlcXmlReader(XML_FILENAME);
 		RawSongContainer rawSongs = reader.readRawSongContainer();
 		RawSongConverter converter = new RawSongConverter();
-		DlcCollection dlc = new DlcCollection();
+		DLCCollection dlc = new DLCCollection();
 		for (RawSong rawSong : rawSongs.getSongs())
 			dlc.addSong(converter.convert(rawSong));
 

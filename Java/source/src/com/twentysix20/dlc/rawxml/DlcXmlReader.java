@@ -7,9 +7,8 @@ import java.util.Collections;
 import java.util.List;
 
 import com.thoughtworks.xstream.XStream;
-import com.twentysix20.dlc.Artist;
-import com.twentysix20.dlc.DlcCollection;
-import com.twentysix20.dlc.RawSongConverter;
+import com.twentysix20.dlc.DLCCollection;
+import com.twentysix20.dlc.model.Artist;
 import com.twentysix20.util.FileUtil;
 
 public class DlcXmlReader {

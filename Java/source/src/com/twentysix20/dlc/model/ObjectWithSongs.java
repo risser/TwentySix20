@@ -1,7 +1,8 @@
-package com.twentysix20.dlc;
+package com.twentysix20.dlc.model;
 
 import java.util.HashSet;
 import java.util.Set;
+
 
 public class ObjectWithSongs implements Comparable<ObjectWithSongs> {
 

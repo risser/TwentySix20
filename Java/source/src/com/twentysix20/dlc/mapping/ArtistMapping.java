@@ -1,7 +1,8 @@
-package com.twentysix20.dlc;
+package com.twentysix20.dlc.mapping;
 
 import java.util.HashMap;
 import java.util.Map;
+
 
 public class ArtistMapping implements StringMapping {
 

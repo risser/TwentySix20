@@ -1,7 +1,8 @@
-package com.twentysix20.dlc;
+package com.twentysix20.dlc.model;
 
 import java.util.HashMap;
 import java.util.Map;
+
 
 public class DiscFactory {
 	static private Map<String, Disc> discMap = new HashMap<String, Disc>();

@@ -1,6 +1,14 @@
-package com.twentysix20.dlc;
+package com.twentysix20.dlc.rawxml;
 
-import com.twentysix20.dlc.rawxml.RawSong;
+import com.twentysix20.dlc.mapping.ArtistMapping;
+import com.twentysix20.dlc.model.Artist;
+import com.twentysix20.dlc.model.ArtistFactory;
+import com.twentysix20.dlc.model.Disc;
+import com.twentysix20.dlc.model.DiscFactory;
+import com.twentysix20.dlc.model.Genre;
+import com.twentysix20.dlc.model.Pack;
+import com.twentysix20.dlc.model.PackFactory;
+import com.twentysix20.dlc.model.Song;
 
 public class RawSongConverter {
 

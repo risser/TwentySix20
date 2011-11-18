@@ -1,4 +1,4 @@
-package com.twentysix20.dlc;
+package com.twentysix20.dlc.model;
 
 
 public class Pack extends ObjectWithSongs {

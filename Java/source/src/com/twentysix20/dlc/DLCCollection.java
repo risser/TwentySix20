@@ -6,7 +6,12 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class DlcCollection {
+import com.twentysix20.dlc.model.Artist;
+import com.twentysix20.dlc.model.Disc;
+import com.twentysix20.dlc.model.Pack;
+import com.twentysix20.dlc.model.Song;
+
+public class DLCCollection {
 
 	private Set<Artist> artists = new HashSet<Artist>();
 	private Set<Song> songs = new HashSet<Song>();
