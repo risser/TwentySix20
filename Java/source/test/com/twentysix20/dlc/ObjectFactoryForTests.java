@@ -1,5 +1,10 @@
 package com.twentysix20.dlc;
 
+import com.twentysix20.dlc.model.ArtistFactory;
+import com.twentysix20.dlc.model.DiscFactory;
+import com.twentysix20.dlc.model.Genre;
+import com.twentysix20.dlc.model.PackFactory;
+import com.twentysix20.dlc.model.Song;
 import com.twentysix20.dlc.rawxml.RawSong;
 
 public class ObjectFactoryForTests {

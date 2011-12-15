@@ -5,6 +5,11 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Before;
 import org.junit.Test;
 
+import com.twentysix20.dlc.model.ArtistFactory;
+import com.twentysix20.dlc.model.DiscFactory;
+import com.twentysix20.dlc.model.PackFactory;
+import com.twentysix20.dlc.model.Song;
+
 
 public class TestDlcCollection {
 	@Before public void clearFactories() {
@@ -14,7 +19,7 @@ public class TestDlcCollection {
 	}
 
 	@Test public void newSongAddsSongToCollection() {
-		DlcCollection dlc = new DlcCollection();
+		DLCCollection dlc = new DLCCollection();
 		dlc.addSong(ObjectFactoryForTests.basicSong());
 
 		assertEquals(1, dlc.getSongs().size());
@@ -24,7 +29,7 @@ public class TestDlcCollection {
 	}
 
 	@Test public void additionalSongCreatesAnotherSongInCollection() {
-		DlcCollection dlc = new DlcCollection();
+		DLCCollection dlc = new DLCCollection();
 		dlc.addSong(ObjectFactoryForTests.basicSong());
 		dlc.addSong(ObjectFactoryForTests.anotherSongDifferentEverything());
 		dlc.addSong(ObjectFactoryForTests.anotherSongSameEverything());
@@ -33,7 +38,7 @@ public class TestDlcCollection {
 	}
 
 	@Test public void newArtistAddsArtistToCollection() {
-		DlcCollection dlc = new DlcCollection();
+		DLCCollection dlc = new DLCCollection();
 		dlc.addSong(ObjectFactoryForTests.basicSong());
 
 		assertEquals(1, dlc.getArtists().size());
@@ -41,7 +46,7 @@ public class TestDlcCollection {
 	}
 
 	@Test public void newArtistCreatesAnotherArtistInCollection() {
-		DlcCollection dlc = new DlcCollection();
+		DLCCollection dlc = new DLCCollection();
 		dlc.addSong(ObjectFactoryForTests.basicSong());
 		dlc.addSong(ObjectFactoryForTests.anotherSongDifferentEverything());
 
@@ -49,7 +54,7 @@ public class TestDlcCollection {
 	}
 
 	@Test public void sameArtistDoesntAddNewArtist() {
-		DlcCollection dlc = new DlcCollection();
+		DLCCollection dlc = new DLCCollection();
 		dlc.addSong(ObjectFactoryForTests.basicSong());
 		dlc.addSong(ObjectFactoryForTests.anotherSongSameEverything());
 
@@ -57,7 +62,7 @@ public class TestDlcCollection {
 	}
 
 	@Test public void newDiscAddsDiscToCollection() {
-		DlcCollection dlc = new DlcCollection();
+		DLCCollection dlc = new DLCCollection();
 		dlc.addSong(ObjectFactoryForTests.basicSong());
 
 		assertEquals(1, dlc.getDiscs().size());
@@ -65,7 +70,7 @@ public class TestDlcCollection {
 	}
 
 	@Test public void newDiscCreatesAnotherDiscInCollection() {
-		DlcCollection dlc = new DlcCollection();
+		DLCCollection dlc = new DLCCollection();
 		dlc.addSong(ObjectFactoryForTests.basicSong());
 		dlc.addSong(ObjectFactoryForTests.anotherSongDifferentEverything());
 
@@ -73,7 +78,7 @@ public class TestDlcCollection {
 	}
 
 	@Test public void sameDiscDoesntAddNewDisc() {
-		DlcCollection dlc = new DlcCollection();
+		DLCCollection dlc = new DLCCollection();
 		dlc.addSong(ObjectFactoryForTests.basicSong());
 		dlc.addSong(ObjectFactoryForTests.anotherSongSameEverything());
 
@@ -81,7 +86,7 @@ public class TestDlcCollection {
 	}
 
 	@Test public void newPackAddsPackToCollection() {
-		DlcCollection dlc = new DlcCollection();
+		DLCCollection dlc = new DLCCollection();
 		dlc.addSong(ObjectFactoryForTests.basicSong());
 
 		assertEquals(1, dlc.getPacks().size());
@@ -89,7 +94,7 @@ public class TestDlcCollection {
 	}
 
 	@Test public void newPackCreatesAnotherPackInCollection() {
-		DlcCollection dlc = new DlcCollection();
+		DLCCollection dlc = new DLCCollection();
 		dlc.addSong(ObjectFactoryForTests.basicSong());
 		dlc.addSong(ObjectFactoryForTests.anotherSongDifferentEverything());
 
@@ -97,7 +102,7 @@ public class TestDlcCollection {
 	}
 
 	@Test public void samePackDoesntAddNewPack() {
-		DlcCollection dlc = new DlcCollection();
+		DLCCollection dlc = new DLCCollection();
 		dlc.addSong(ObjectFactoryForTests.basicSong());
 		dlc.addSong(ObjectFactoryForTests.anotherSongSameEverything());
 

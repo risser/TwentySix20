@@ -4,6 +4,9 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import com.twentysix20.dlc.model.Artist;
+import com.twentysix20.dlc.model.ArtistFactory;
+
 
 public class TestArtistFactory {
 

@@ -47,4 +47,8 @@ public class LyricsWikiFactory extends BaseLyricHandlerFactory {
 	public String nameOfSite() {
 		return NAME;
 	}
+
+	static public void main (String s[]) {
+		new LyricsWikiFactory(new InternetHtmlLoader()).verify();
+	}
 }

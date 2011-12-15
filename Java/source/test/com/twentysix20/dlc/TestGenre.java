@@ -4,6 +4,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import com.twentysix20.dlc.model.Genre;
+
 
 public class TestGenre {
 

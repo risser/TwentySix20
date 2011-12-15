@@ -13,7 +13,15 @@ public class Lyrics007Handler extends BaseLyricHandler {
 
 	@Override
 	protected void setupParsers() {
-		lyricParser = new TwoShotLyricParser("<br><br><br>","<script");
+		lyricParser = new TwoShotLyricParser("</scr' + 'ipt>","</script>","<div");
 		atParser = new ConjoinedArtistTitleParser("<Title>", " - ", " Lyrics</Title>");
+	}
+
+	@Override
+	protected void parseData() {
+        super.parseData();
+
+        while (lyrics.startsWith("Writer:"))
+        	lyrics = lyrics.substring(lyrics.indexOf('\n')).trim();
 	}
 }

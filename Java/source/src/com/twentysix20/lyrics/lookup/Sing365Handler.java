@@ -13,7 +13,7 @@ public class Sing365Handler extends BaseLyricHandler {
 
 	@Override
 	protected void setupParsers() {
-        lyricParser = new TwoShotLyricParser("Ringtones to Cell</span>", "<br>", "<img src=");
+        lyricParser = new TwoShotLyricParser("Ringtones to Cell</span>", "<br>", "<hr");
 		atParser = new ConjoinedArtistTitleParser("<title>"," \\- "," LYRICS</title>");
 	}
 

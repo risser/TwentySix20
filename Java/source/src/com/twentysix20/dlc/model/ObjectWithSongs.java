@@ -44,6 +44,6 @@ public class ObjectWithSongs implements Comparable<ObjectWithSongs> {
 
 	@Override
 	public int compareTo(ObjectWithSongs o) {
-		return name.compareTo(o.getName());
+		return name.toUpperCase().compareTo(o.getName().toUpperCase());
 	}
 }

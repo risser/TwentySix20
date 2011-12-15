@@ -10,16 +10,19 @@ import java.util.Map;
 
 import com.twentysix20.lyrics.lookup.AZLyricFactory;
 import com.twentysix20.lyrics.lookup.JustSomeLyricsFactory;
+import com.twentysix20.lyrics.lookup.Lyrics007Factory;
+import com.twentysix20.lyrics.lookup.LyricsFreakFactory;
+import com.twentysix20.lyrics.lookup.LyricsKeeperFactory;
 import com.twentysix20.lyrics.lookup.LyricsManiaFactory;
 import com.twentysix20.lyrics.lookup.LyricsModeFactory;
 import com.twentysix20.lyrics.lookup.LyricsVIPFactory;
 import com.twentysix20.lyrics.lookup.LyricsWikiFactory;
 import com.twentysix20.lyrics.lookup.MetroLyricsFactory;
+import com.twentysix20.lyrics.lookup.OldieLyricsFactory;
 import com.twentysix20.lyrics.lookup.STLyricsFactory;
 import com.twentysix20.lyrics.lookup.Sing365Factory;
 import com.twentysix20.lyrics.lookup.SongMeaningsFactory;
 import com.twentysix20.lyrics.lookup.TuneWikiFactory;
-import com.twentysix20.lyrics.lookup.UULyricsFactory;
 import com.twentysix20.util.html.InternetHtmlLoader;
 
 public class LyricReader {
@@ -35,11 +38,9 @@ public class LyricReader {
 		Map<String,List<LyricPageHandler>> artistTitleToLyricsMap = new HashMap<String,List<LyricPageHandler>>();
 		List<String> artistTitleList = new ArrayList<String>();
 
-// http://www.oldielyrics.com/lyrics/steve_perry/oh_sherrie.html
 // http://www.seeklyrics.com/lyrics/Steve-Perry/Oh-Sherrie.html
 // http://www.elyrics.net/read/s/steve-perry-lyrics/oh-sherrie-lyrics.html
 // http://www.project80s.com/lyrics/song-lyrics.php%3Fsong%3Doh-sherry-steve-perry
-// http://www.lyricsfreak.com/o/ocean%2Bcolour%2Bscene/hundred%2Bmile%2Bhigh%2Bcity_20102500.html
 // http://www.elyricsworld.com/hundred_mile_high_city_lyrics_ocean_colour_scene.html
 // http://www.mp3lyrics.org/o/ocean-colour-scene/hundred-mile-high-city/
 // http://www.lyricstime.com/ocean-colour-scene-hundred-mile-high-city-lyrics.html
@@ -57,15 +58,18 @@ public class LyricReader {
 		LyricHandlerFactoryFactory handlerFactoryFactory = new LyricHandlerFactoryFactory();
 		handlerFactoryFactory.addParserFactory(new TuneWikiFactory(new InternetHtmlLoader()));
 		handlerFactoryFactory.addParserFactory(new SongMeaningsFactory(new InternetHtmlLoader()));
-		handlerFactoryFactory.addParserFactory(new UULyricsFactory(new InternetHtmlLoader()));
+//		handlerFactoryFactory.addParserFactory(new UULyricsFactory(new InternetHtmlLoader()));
 		handlerFactoryFactory.addParserFactory(new LyricsModeFactory(new InternetHtmlLoader()));
+		handlerFactoryFactory.addParserFactory(new LyricsKeeperFactory(new InternetHtmlLoader()));
 		handlerFactoryFactory.addParserFactory(new Sing365Factory(new InternetHtmlLoader()));
 		handlerFactoryFactory.addParserFactory(new MetroLyricsFactory(new InternetHtmlLoader()));
 		handlerFactoryFactory.addParserFactory(new AZLyricFactory(new InternetHtmlLoader()));
-		handlerFactoryFactory.addParserFactory(new STLyricsFactory(new InternetHtmlLoader()));
-//		handlerFactoryFactory.addParserFactory(new Lyrics007Factory(new InternetHtmlLoader()));
+//		handlerFactoryFactory.addParserFactory(new STLyricsFactory(new InternetHtmlLoader()));
+		handlerFactoryFactory.addParserFactory(new Lyrics007Factory(new InternetHtmlLoader()));
 		handlerFactoryFactory.addParserFactory(new LyricsManiaFactory(new InternetHtmlLoader()));
 		handlerFactoryFactory.addParserFactory(new LyricsWikiFactory(new InternetHtmlLoader()));
+		handlerFactoryFactory.addParserFactory(new LyricsFreakFactory(new InternetHtmlLoader()));
+		handlerFactoryFactory.addParserFactory(new OldieLyricsFactory(new InternetHtmlLoader()));
 		handlerFactoryFactory.addParserFactory(new LyricsVIPFactory(new InternetHtmlLoader()));
 		handlerFactoryFactory.addParserFactory(new JustSomeLyricsFactory(new InternetHtmlLoader()));
 

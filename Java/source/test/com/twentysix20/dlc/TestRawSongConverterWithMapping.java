@@ -1,14 +1,17 @@
 package com.twentysix20.dlc;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.assertNotSame;
-import static org.junit.Assert.assertSame;
 
 import org.junit.Before;
 import org.junit.Test;
 
+import com.twentysix20.dlc.mapping.StringMapping;
+import com.twentysix20.dlc.model.ArtistFactory;
+import com.twentysix20.dlc.model.DiscFactory;
+import com.twentysix20.dlc.model.PackFactory;
+import com.twentysix20.dlc.model.Song;
 import com.twentysix20.dlc.rawxml.RawSong;
+import com.twentysix20.dlc.rawxml.RawSongConverter;
 
 
 public class TestRawSongConverterWithMapping {
@@ -18,12 +21,19 @@ public class TestRawSongConverterWithMapping {
 		PackFactory.clear();
 	}
 
-	@Test public void withArtistMapping() {
+	@Test public void withArtistMappings() {
+		StringMapping map = new StringMapping();
+		map.addMapping("T.Rex", "T. Rex");
+		map.addMapping("P!nk", "Pink");
+
 		RawSongConverter converter = new RawSongConverter();
-		converter.addArtistMapping(new ArtistMapping("T.Rex", "T. Rex"));
+		converter.setArtistMapping(map);
 		
 		Song song = converter.convert(rawSong("T.Rex"));
 		assertEquals("T. Rex", song.getArtist().getName());
+		
+		Song song2 = converter.convert(rawSong("P!nk"));
+		assertEquals("Pink", song2.getArtist().getName());
 	}
 
 ///////////////////////////////////////////////////

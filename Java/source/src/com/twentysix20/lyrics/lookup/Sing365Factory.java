@@ -35,4 +35,8 @@ public class Sing365Factory extends BaseLyricHandlerFactory {
 	public String nameOfSite() {
 		return NAME;
 	}
+
+	static public void main (String s[]) {
+		new Sing365Factory(new InternetHtmlLoader()).verify();
+	}
 }

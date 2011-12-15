@@ -19,8 +19,8 @@ public class Lyrics007Factory extends BaseLyricHandlerFactory {
 	@Override
 	public boolean verify() {
 		String verificationURL = "http://www.lyrics007.com/wham!%2520Lyrics/Last%2520Christmas%2520Lyrics.html";
-		String verificationLyricStart = "Chorus:";
-		String verificationLyricEnd = "give it to someone";
+		String verificationLyricStart = "[Chorus]";
+		String verificationLyricEnd = "(return to top)";
 		String verificationArtist = "wham!";
 		String verificationTitle = "Last Christmas";
 		return verify(verificationURL, verificationLyricStart, verificationLyricEnd, verificationArtist, verificationTitle);
@@ -34,5 +34,9 @@ public class Lyrics007Factory extends BaseLyricHandlerFactory {
 	@Override
 	public String nameOfSite() {
 		return NAME;
+	}
+
+	static public void main (String s[]) {
+		new Lyrics007Factory(new InternetHtmlLoader()).verify();
 	}
 }
