@@ -1,17 +1,16 @@
 package com.twentysix20.cipher;
 
 public class FoursquareCipher implements Cipher {
-	private static final String ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-	private final String plainBox;
-	private final String upperRightBox;
-	private final String lowerLeftBox;
+	private final Box25 plainBox;
+	private final Box25 upperRightBox;
+	private final Box25 lowerLeftBox;
 
 	public FoursquareCipher(String key1, String key2) {
 		this(key1, key2, 'Q');
 	}
 
 	public FoursquareCipher(String key1, String key2, char c) {
-		plainBox = ALPHABET.replaceFirst(""+c, "");
+		plainBox = new Box25(c);
 		upperRightBox = generateBox(key1.replaceFirst(""+c, ""));
 		lowerLeftBox = generateBox(key2.replaceFirst(""+c, ""));
 	}
@@ -20,7 +19,7 @@ public class FoursquareCipher implements Cipher {
 	public String encode(String plaintext) {
 		String preEncodedMessage = "";
 		for (char c : plaintext.toUpperCase().toCharArray())
-			if (plainBox.indexOf(c) >= 0)
+			if (plainBox.contains(c))
 				preEncodedMessage += c;
 		if (preEncodedMessage.length() % 2 == 1)
 			preEncodedMessage += 'X';
@@ -51,44 +50,31 @@ public class FoursquareCipher implements Cipher {
 	}
 
 	private String decodeDigraph(String digraph) {
-		RowColumn pos1 = findPosition(digraph.charAt(0), upperRightBox);
-		RowColumn pos2 = findPosition(digraph.charAt(1), lowerLeftBox);
-		char c1 = findLetter(pos1.row, pos2.column, plainBox);
-		char c2 = findLetter(pos2.row, pos1.column, plainBox);
+		RowColumn pos1 = upperRightBox.positionOf(digraph.charAt(0));
+		RowColumn pos2 = lowerLeftBox.positionOf(digraph.charAt(1));
+		char c1 = plainBox.charAt(pos1.getRow(), pos2.getColumn());
+		char c2 = plainBox.charAt(pos2.getRow(), pos1.getColumn());
 		return "" + c1 + c2;
 	}
 
 	private String encodeDigraph(String digraph) {
-		RowColumn pos1 = findPosition(digraph.charAt(0), plainBox);
-		RowColumn pos2 = findPosition(digraph.charAt(1), plainBox);
-		char c1 = findLetter(pos1.row, pos2.column, upperRightBox);
-		char c2 = findLetter(pos2.row, pos1.column, lowerLeftBox);
+		RowColumn pos1 = plainBox.positionOf(digraph.charAt(0));
+		RowColumn pos2 = plainBox.positionOf(digraph.charAt(1));
+		char c1 = upperRightBox.charAt(pos1.getRow(), pos2.getColumn());
+		char c2 = lowerLeftBox.charAt(pos2.getRow(), pos1.getColumn());
 		return "" + c1 + c2;
 	}
 
-	private char findLetter(int row, int column, String box) {
-		int pos = row * 5 + column;
-		return box.charAt(pos);
-	}
-
-	private RowColumn findPosition(char c, String box) {
-		int pos = box.indexOf(c);
-		RowColumn rc = new RowColumn();
-		rc.row = pos / 5;
-		rc.column = pos % 5;
-		return  rc;
-	}
-
-	private String generateBox(String keyword) {
+	private Box25 generateBox(String keyword) {
 		String box = "";
 		for (char c : keyword.toUpperCase().toCharArray()) {
 			if (box.indexOf(c) < 0)
 				box += c;
 		}
-		for (char c : plainBox.toCharArray()) {
+		for (char c : plainBox.toFlatString().toCharArray()) {
 			if (box.indexOf(c) < 0)
 				box += c;
 		}
-		return box;
+		return new Box25(box);
 	}
 }
