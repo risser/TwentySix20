@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="hibernate-2.1.6/eg"/>
-	<classpathentry kind="src" path="hibernate-2.1.6/test"/>
 	<classpathentry exported="true" kind="lib" path="aspectjrt.jar"/>
 	<classpathentry exported="true" kind="lib" path="aspectjtools.jar"/>
 	<classpathentry exported="true" kind="lib" path="commons-lang-2.2.jar"/>
