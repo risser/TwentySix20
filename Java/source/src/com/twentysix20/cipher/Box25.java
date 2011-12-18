@@ -1,7 +1,7 @@
 package com.twentysix20.cipher;
 
 public class Box25 {
-	private static final String ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+	public static final String ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
 	private String box;
 
@@ -57,5 +57,15 @@ public class Box25 {
 
 	public char charAt(RowColumn rowColumn) {
 		return charAt(rowColumn.getRow(), rowColumn.getColumn());
+	}
+
+	@Override public String toString() {
+		StringBuilder s = new StringBuilder();
+		for (int i = 0; i < box.length(); i++) {
+			s.append(box.charAt(i) + " ");
+			if ((i + 1) % 5 == 0)
+				s.append("\n");
+		}
+		return s.toString();
 	}
 }

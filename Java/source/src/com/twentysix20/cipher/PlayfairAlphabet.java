@@ -1,6 +1,6 @@
 package com.twentysix20.cipher;
 
 public enum PlayfairAlphabet {
-	REMOVED_Q,
+	REMOVE_Q,
 	REPLACE_J_WITH_I
 }
