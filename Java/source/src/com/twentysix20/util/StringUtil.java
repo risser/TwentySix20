@@ -202,13 +202,18 @@ public class StringUtil {
 		return html;
 	}
 	
-	static public String unescapeXml(String s) {
-		String html = StringEscapeUtils.unescapeHtml4(s);
+	static public String escapeXML(String s) {
+		String html = StringEscapeUtils.escapeXml(s);
 		return html;
 	}
 	
-	static public String escapeXml(String s) {
-		String html = StringEscapeUtils.escapeXml(s);
+	static public String unescapeXML(String s) {
+		String html = StringEscapeUtils.unescapeXml(s);
+		return html;
+	}
+	
+	static public String unescapeHTML(String s) {
+		String html = StringEscapeUtils.unescapeHtml4(s);
 		return html;
 	}
 	

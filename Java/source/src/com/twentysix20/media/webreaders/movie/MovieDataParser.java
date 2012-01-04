@@ -16,7 +16,7 @@ public class MovieDataParser {
 
 		ShowData data = new ShowData();
 		int titlePos = page.indexOf("<h1");
-		data.setEpisodeTitle(StringUtil.unescapeXml(StringUtil.grab(page, ">", "<span", titlePos)));
+		data.setEpisodeTitle(StringUtil.unescapeHTML(StringUtil.grab(page, ">", "<span", titlePos)));
 
 		int yearPos = page.indexOf("<span",titlePos);
 		String yearText = StringUtil.grab(page, "(", ")", yearPos);
@@ -40,13 +40,13 @@ public class MovieDataParser {
 		}
 
 		int descPos = page.indexOf("<p itemprop=\"description\"",infobarPos);
-		data.setDescription(StringUtil.unescapeXml(StringUtil.grab(page, ">", "</p>", descPos+1)));
+		data.setDescription(StringUtil.unescapeHTML(StringUtil.grab(page, ">", "</p>", descPos+1)));
 
 		int directorPos = page.indexOf("<div",descPos);
 		String directorText = StringUtil.grab(page, "<div", "</div>", directorPos);
 		while (directorText.contains("<a")) {
 			String director = StringUtil.grab(directorText,">","<",directorText.indexOf("<a"));
-			data.getDirectors().add(StringUtil.unescapeXml(director));
+			data.getDirectors().add(StringUtil.unescapeHTML(director));
 			directorText = directorText.substring(directorText.indexOf("<a")+1);
 		}
 
@@ -54,7 +54,7 @@ public class MovieDataParser {
 		String writerText = StringUtil.grab(page, "<div", "</div>", writerPos);
 		while (writerText.contains("<a")) {
 			String writer = StringUtil.grab(writerText,">","<",writerText.indexOf("<a"));
-			data.getWriters().add(StringUtil.unescapeXml(writer));
+			data.getWriters().add(StringUtil.unescapeHTML(writer));
 			writerText = writerText.substring(writerText.indexOf("<a")+1);
 		}
 
@@ -65,7 +65,7 @@ public class MovieDataParser {
 			if (castRow.contains("castlist_label")) continue;
 			String nameCol = StringUtil.grab(castRow, "<td class=\"name\">", "</td>");
 			String name = StringUtil.grab(nameCol, ">","<");
-			data.getActors().add(StringUtil.unescapeXml(name));
+			data.getActors().add(StringUtil.unescapeHTML(name));
 		}
 
 		int companyPos = page.indexOf("<h3>Company Credits</h3>",castPos);
@@ -75,7 +75,7 @@ public class MovieDataParser {
 			if ("Warner Bros. Pictures".equals(companyName))
 				companyName = "Warner Brothers";
 			if (!companyName.contains("See more"))
-				data.getStudios().add(StringUtil.unescapeXml(companyName));
+				data.getStudios().add(StringUtil.unescapeHTML(companyName));
 			companyText = companyText.substring(companyText.indexOf("<a")+1);
 		}
 

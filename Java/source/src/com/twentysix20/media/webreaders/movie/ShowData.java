@@ -156,7 +156,7 @@ public class ShowData {
 						s(actors), s(directors), s(writers), 
 						s(studios), s(genres), 
 						rating, year, description);
-		return StringUtil.unescapeXml(tabbedStr);
+		return StringUtil.unescapeHTML(tabbedStr);
 	}
 
 	private Object s(List<String> list) {

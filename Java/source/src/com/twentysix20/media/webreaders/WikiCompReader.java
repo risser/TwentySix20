@@ -108,7 +108,7 @@ System.out.println();
 
 	private static String cleanName(String comps) {
 		comps = comps.replaceAll("\\<.*?\\>", "").replaceAll("&#160;", " ");
-		comps = StringUtil.unescapeXml(comps);
+		comps = StringUtil.unescapeHTML(comps);
 		return comps;
 	}
 }
