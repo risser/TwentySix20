@@ -20,10 +20,10 @@ public class TVSummaryPageParser {
 		String page = loader.getHtmlPage(url);
 		Set<ShowData> showData = new HashSet<ShowData>();
 
-		String[] urls = page.split("<h3 >");
+		String[] urls = page.split("episode expanded");
 		for (String section : urls) {
 			if (section.contains("<head>")) continue;
-			String pageUrl = StringUtil.grab(section, "href=\"", "\"");
+			String pageUrl = "http://www.tv.com" + StringUtil.grab(section, "href=\"", "\"");
 			if (!pageUrl.contains("//episode")) {
 				ShowData data = new TVEpisodePageParser(new FancyInternetHtmlLoader()).parse(pageUrl);
 				showData.add(data);

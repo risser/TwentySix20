@@ -16,6 +16,8 @@ public class MovieReader {
 		System.out.println("Enter URLs:");
 		String url;
 		while (!"".equals(url = stdin.readLine())) {
+			if (!url.startsWith("http://"))
+				url = "http://"+url;
 			data.add(new MovieDataParser(new FancyInternetHtmlLoader()).parse(url));
 		}
 

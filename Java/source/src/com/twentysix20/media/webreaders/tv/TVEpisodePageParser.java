@@ -9,11 +9,13 @@ import java.util.List;
 
 import com.twentysix20.media.webreaders.movie.ShowData;
 import com.twentysix20.util.StringUtil;
+import com.twentysix20.util.html.FancyInternetHtmlLoader;
 import com.twentysix20.util.html.HtmlLoader;
 import com.twentysix20.util.html.HtmlUtil;
 
 public class TVEpisodePageParser {
-	static private DateFormat formatter1 = new SimpleDateFormat("EEEE MMMM dd, yyyy");
+//	static private DateFormat formatter1 = new SimpleDateFormat("EEEE MMMM dd, yyyy");
+	static private DateFormat formatter1 = new SimpleDateFormat("MM/dd/yy");
 	static private DateFormat formatter2 = new SimpleDateFormat("MMMM dd, yyyy");
 	//1977-09-10T07:00:00Z
 //	static private DateFormat outputFormatter = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'");
@@ -31,16 +33,16 @@ public class TVEpisodePageParser {
 		String page = loader.getHtmlPage(url);
 		ShowData showData = new ShowData();
 	
-		int titlePos = page.indexOf("og:title");
-		String title = StringUtil.grab(page,"content=\"","\"",titlePos);
+		int titlePos = page.indexOf("ep_title");
+		String title = StringUtil.grab(page,">","<",titlePos);
 		showData.setEpisodeTitle(cleanSummary(title));
 
-		int showNamePos = page.indexOf("<div class=\"title\">");
-		showNamePos = page.indexOf("<a",showNamePos);
-		showData.setShowName(StringUtil.grab(page,">","<",showNamePos));
+		int showNamePos = page.indexOf("show_title");
+		String showName = StringUtil.grab(page,">","<",showNamePos);
+		showData.setShowName(showName);
 
-		int numbersPos = page.indexOf("<div class=\"crumbs\">");
-		String numbersStr = StringUtil.grab(page,"<span>","</span>",numbersPos).trim();
+		int numbersPos = page.indexOf("<title>");
+		String numbersStr = StringUtil.grab(page," - "," - ",numbersPos).trim();
 		numbersStr = numbersStr.replaceAll("[^0-9,]", "");
 		String[] numbers = numbersStr.split(",");
 		if (!StringUtil.isEmpty(numbers[0]))
@@ -48,60 +50,34 @@ public class TVEpisodePageParser {
 		if (numbers.length > 1 && !StringUtil.isEmpty(numbers[1]))
 			showData.setEpisode(Integer.valueOf(numbers[1]));
 
-		int castPagePos = page.indexOf("subNavCastLnk");
-		String castUrl = StringUtil.grab(page, "'", "'", castPagePos);
-		castParser.parse(url + castUrl, showData);
-
-		int datePos = page.indexOf("<h4>Air Date</h4>",showNamePos);
-		String dateStr = StringUtil.grab(page, "<p>","</p>", datePos);
+		String dateStr = StringUtil.grab(page, "Aired","</div>");
 		showData.setYear("'"+parseDate(dateStr));
 
-		int descPos = page.indexOf("<h3>Episode Summary</h3>",datePos);
-		String summary = StringUtil.grab(page, "<p>","</p>", descPos);
+		int descPos = page.indexOf("<h2>Episode Summary</h2>");
+		String summary = StringUtil.grab(page, "description\">","<form", descPos);
 		summary = cleanSummary(summary);
 		showData.setDescription(summary);
 
-		int starsPos = page.indexOf(">Stars</h4>",descPos);
-		int guestPos = page.indexOf(">Guest Cast</h4>",starsPos);
-		int recurPos = page.indexOf(">Recurring Roles</h4>",starsPos);
-		if (showData.getActors().isEmpty()) {
-			List<String> actors = new ArrayList<String>();
-	
-			String stars = StringUtil.grab(page, "<ul class=\"persons\">", "</ul>", starsPos);
-			actors.addAll(processNames(stars, true));
-	
-			String guestStars = null;
-			if (guestPos > -1) {
-				guestStars = StringUtil.grab(page, "<ul class=\"persons\">", "</ul>", guestPos);
-			}
-	
-			if (recurPos > -1) {
-				String recurs = StringUtil.grab(page, "<ul class=\"persons\">", "</ul>", recurPos);
-				actors.addAll(processNames(recurs, true));
-			}
-	
-			if (guestStars != null)
-				actors.addAll(processNames(guestStars, false));
-	
-			showData.setActors(actors);
-		}
+		List<String> actors = new ArrayList<String>();
 
-		int directorPos = page.indexOf(">Directors</h4>",guestPos);
-		if (directorPos > -1) {
-			String directors = StringUtil.grab(page, "<ul class=\"persons\">", "</ul>", directorPos);
-			showData.setDirectors(processNames(directors, true));
-		}
+//		castParser.parse(url + "/cast/", showData);
+		CastPageParser castPageParser = new CastPageParser(new FancyInternetHtmlLoader());
+		actors.addAll(castPageParser.parse(url, "stars"));
+		actors.addAll(castPageParser.parse(url, "recurring-roles"));
+		actors.addAll(castPageParser.parse(url, "guest-stars"));
+//		actors.addAll(castPageParser.parse(url, "cameos"));
+//		actors.addAll(castPageParser.parse(url, "special-guest-stars"));
 
-		int writerPos = page.indexOf(">Writers</h4>",directorPos);
-		if (writerPos > -1) {
-			String writers = StringUtil.grab(page, "<ul class=\"persons\">", "</ul>", writerPos);
-			showData.setWriters(processNames(writers, true));
-		}
-		
+		showData.setActors(actors);
+
+		showData.setDirectors(castPageParser.parse(url, "directors"));
+		showData.setWriters(castPageParser.parse(url, "writers"));
+
 		return showData;
 	}
 
 	private String parseDate(String dateStr) throws ParseException {
+		dateStr = dateStr.trim();
 		if (!dateStr.matches(".*[0-9]+.*"))
 			return dateStr;
 		try {
