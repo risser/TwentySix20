@@ -198,7 +198,7 @@ public class StringUtil {
 	}
 	
 	static public String toHTML(String s) {
-		String html = StringEscapeUtils.escapeHtml(s).replaceAll("\n","<br>").replaceAll("\t","&nbsp; &nbsp; ").replaceAll("  ","&nbsp; ").replaceAll("  ","&nbsp; ");
+		String html = StringEscapeUtils.escapeHtml4(s).replaceAll("\n","<br>").replaceAll("\t","&nbsp; &nbsp; ").replaceAll("  ","&nbsp; ").replaceAll("  ","&nbsp; ");
 		return html;
 	}
 	
