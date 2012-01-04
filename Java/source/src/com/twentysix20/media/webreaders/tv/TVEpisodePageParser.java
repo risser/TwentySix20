@@ -87,26 +87,9 @@ public class TVEpisodePageParser {
 	}
 
 	private String cleanSummary(String summary) {
-//		summary = StringUtil.simplify(summary);
+		summary = summary.replaceAll("<a.*?</a>", "");
+		summary = summary.replaceAll("</?span.*?>\\.*", "");
 		summary = HtmlUtil.cleanHtml(summary);
 		return summary;
-	}
-
-	private List<String> processNames(String pagePart, boolean sort) {
-		List<String> actors = new ArrayList<String>();
-		if (StringUtil.isEmpty(pagePart)) return actors;
-
-		String[] sections = pagePart.split("<li class=");
-		for (String section : sections) {
-			if (section.trim().isEmpty()) continue;
-			section = section.substring(0,section.indexOf("</a>"));
-			String actor = section.substring(section.lastIndexOf('>')+1);
-//			actor = StringUtil.simplify(actor);
-			actor = actor.replaceAll("  "," ").replaceAll(" \\([IV]+\\)","");
-			actors.add(actor);
-		}
-		if (sort)
-			Collections.sort(actors);
-		return actors;
 	}
 }
