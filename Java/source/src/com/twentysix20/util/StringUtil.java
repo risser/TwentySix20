@@ -203,7 +203,7 @@ public class StringUtil {
 	}
 	
 	static public String unescapeXml(String s) {
-		String html = StringEscapeUtils.unescapeXml(s);
+		String html = StringEscapeUtils.unescapeHtml4(s);
 		return html;
 	}
 	
