@@ -44,6 +44,7 @@ public class MP4Updater {
 
 	private void updateShowName(String showName) {
 		metaData.setAlbumName(showName);
+		metaData.setAlbumArtistName(showName);
 		metaData.setShowName(showName);
 	}
 

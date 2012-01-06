@@ -7,6 +7,7 @@ import java.util.Map;
 
 import com.coremedia.iso.IsoFileConvenienceHelper;
 import com.coremedia.iso.boxes.apple.AbstractAppleMetaDataBox;
+import com.coremedia.iso.boxes.apple.AppleAlbumArtistBox;
 import com.coremedia.iso.boxes.apple.AppleAlbumBox;
 import com.coremedia.iso.boxes.apple.AppleArtistBox;
 import com.coremedia.iso.boxes.apple.AppleCustomGenreBox;
@@ -198,6 +199,13 @@ public class ITunesMetaDataFacade {
 	}
 	public void setAlbumName(String code) {
 		setBoxValue(AppleAlbumBox.class, code);
+	}
+
+	public String getAlbumArtistName() {
+		return getBoxValue(AppleAlbumArtistBox.class);
+	}
+	public void setAlbumArtistName(String code) {
+		setBoxValue(AppleAlbumArtistBox.class, code);
 	}
 
 	private String getBoxValue(Class<? extends AbstractAppleMetaDataBox> cls) {

@@ -13,9 +13,15 @@ public class MovieReader {
 		BufferedReader stdin = new BufferedReader(isr);
 		List<ShowData> data = new ArrayList<ShowData>();
 
-		System.out.println("Enter URLs:");
-		String url;
-		while (!"".equals(url = stdin.readLine())) {
+		System.out.println("Enter Titles, Numbers or URLs:");
+		String line;
+		while (!"".equals(line = stdin.readLine())) {
+			String url = line;
+			if (!line.contains("imdb.com")) {
+				if (!line.matches("([Tt][Tt])[0-9]+"))
+					line = new MovieTitleLookup(new FancyInternetHtmlLoader()).search(line);
+				url = "http://www.imdb.com/title/"+line;
+			}
 			if (!url.startsWith("http://"))
 				url = "http://"+url;
 			data.add(new MovieDataParser(new FancyInternetHtmlLoader()).parse(url));
@@ -23,6 +29,7 @@ public class MovieReader {
 
 		System.out.println("\n\n");
 		for (ShowData show : data) {
+			show.setDescription("(Review description and genres): "+show.getDescription());
 			System.out.println(show.tabbedString());
 		}
 	}

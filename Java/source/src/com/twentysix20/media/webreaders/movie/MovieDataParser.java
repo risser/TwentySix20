@@ -1,6 +1,7 @@
 package com.twentysix20.media.webreaders.movie;
 
 import com.twentysix20.util.StringUtil;
+import com.twentysix20.util.html.FancyInternetHtmlLoader;
 import com.twentysix20.util.html.HtmlLoader;
 
 public class MovieDataParser {
@@ -40,7 +41,14 @@ public class MovieDataParser {
 		}
 
 		int descPos = page.indexOf("<p itemprop=\"description\"",infobarPos);
-		data.setDescription(StringUtil.unescapeHTML(StringUtil.grab(page, ">", "</p>", descPos+1)));
+		if (descPos < 0) {
+			data.setDescription("<No plot summary found.>");
+		} else {
+			String desc = StringUtil.grab(page, ">", "</p>", descPos+1);
+			if (desc.contains("plotsummary"))
+				desc = new MovieDescriptionParser(new FancyInternetHtmlLoader()).parse(url);
+			data.setDescription(StringUtil.unescapeHTML(desc));
+		}
 
 		int directorPos = page.indexOf("<div",descPos);
 		String directorText = StringUtil.grab(page, "<div", "</div>", directorPos);
@@ -52,10 +60,14 @@ public class MovieDataParser {
 
 		int writerPos = page.indexOf("<div",directorPos+1);
 		String writerText = StringUtil.grab(page, "<div", "</div>", writerPos);
-		while (writerText.contains("<a")) {
-			String writer = StringUtil.grab(writerText,">","<",writerText.indexOf("<a"));
-			data.getWriters().add(StringUtil.unescapeHTML(writer));
-			writerText = writerText.substring(writerText.indexOf("<a")+1);
+		if (writerText.contains("more credit"))
+			data.getWriters().addAll(new MovieWriterParser(new FancyInternetHtmlLoader()).parse(url));
+		else {
+			while (writerText.contains("<a")) {
+				String writer = StringUtil.grab(writerText,">","<",writerText.indexOf("<a"));
+				data.getWriters().add(StringUtil.unescapeHTML(writer));
+				writerText = writerText.substring(writerText.indexOf("<a")+1);
+			}
 		}
 
 		int castPos = page.indexOf("cast_list", writerPos);
